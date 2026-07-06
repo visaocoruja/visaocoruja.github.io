@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Visão Coruja</title>
-    <link href="https://github.com/visaocoruja/feed.xml" rel="self" />
-    <link href="https://github.com/visaocoruja" />
+    <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
+    <link href="https://visaocoruja.github.io" />
     <updated>2026-07-06T10:28:22-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
-    <id>https://github.com/visaocoruja</id>
+    <id>https://visaocoruja.github.io</id>
 
     <entry>
         <title>Elon Musk: X Money irá ao mundo todo em um mês para todos os usuários do X</title>
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://github.com/visaocoruja/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html"/>
-        <id>https://github.com/visaocoruja/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html</id>
+        <link href="https://visaocoruja.github.io/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html"/>
+        <id>https://visaocoruja.github.io/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html</id>
 
         <updated>2026-07-06T10:28:22-03:00</updated>
             <summary type="html">
