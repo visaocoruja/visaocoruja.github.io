@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Visão Coruja</title>
+    <link href="https://github.com/visaocoruja/feed.xml" rel="self" />
+    <link href="https://github.com/visaocoruja" />
+    <updated>2026-07-06T10:28:22-03:00</updated>
+    <author>
+        <name>Visão Coruja</name>
+    </author>
+    <id>https://github.com/visaocoruja</id>
+
+    <entry>
+        <title>Elon Musk: X Money irá ao mundo todo em um mês para todos os usuários do X</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://github.com/visaocoruja/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html"/>
+        <id>https://github.com/visaocoruja/elon-musk-x-money-ira-ao-mundo-todo-em-um-mes-para-todos-os-usuarios-do-x.html</id>
+
+        <updated>2026-07-06T10:28:22-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A expansão simultânea do Elon Musk por múltiplos setores — X (redes sociais), Neuralink (interface cérebro-computador), Starlink (conectividade global), Tesla (veículos/IA), SpaceX (acesso espacial), planos para X Money (serviços financeiros) e outros — levanta questões legítimas sobre centralização de influência. 🔍 Pontos de atenção: Uma&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://imageio.forbes.com/specials-images/imageserve/69e1b9dd3ee819dd3566e1e6/Elon-Musk-Illustrations/0x0.jpg?format=jpg&amp;width=480" alt="" width="480" height="320" data-is-external-image="true"></figure>
+<p>A expansão simultânea do Elon Musk por múltiplos setores — <strong>X</strong> (redes sociais), <strong>Neuralink</strong> (interface cérebro-computador), <strong>Starlink</strong> (conectividade global), <strong>Tesla</strong> (veículos/IA), <strong>SpaceX</strong> (acesso espacial), planos para <strong>X Money</strong> (serviços financeiros) e outros — levanta questões legítimas sobre centralização de influência.<br><br>🔍 <strong>Pontos de atenção:</strong><br><br>Uma única figura controlando comunicação + dados + infraestrutura digital + financeira.<br>Dependência crescente de plataformas privadas sem alternativas robustas.<br>Pouca regulação sobre acumulação transversal de poder tecnológico.<br><br>💡 <strong>Pergunta importante:</strong> Quem supervisiona quem detém tanto poder de alcance?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
