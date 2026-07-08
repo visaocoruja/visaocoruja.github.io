@@ -3,7 +3,7 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-08T11:17:01-03:00</updated>
+    <updated>2026-07-08T11:21:04-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
@@ -105,7 +105,7 @@
 <h2>Implicações Técnicas e Regulamentares</h2>
 <p>A estratégia reflete uma tendência setorial mais ampla de consolidação de dados diretamente gerados por usuários, além da raspagem tradicional de conteúdo web. Empresas como Meta seguem abordagem semelhante, treinando seus modelos de IA com imagens e mídia de usuários, bem como conteúdo gravado por dispositivos como óculos de IA.</p>
 <p>Do ponto de vista de conformidade regulatória, a implementação apresenta desafios sob quadros como o Regulamento Geral de Proteção de Dados (LGPD/RGPD) para União Europeia e Brasil, particularmente quanto ao requisito de consentimento explícito para processamento de dados pessoais sensíveis e à transparência na finalidade do tratamento.</p>
-<h2>Conclusão</h2>
+<h2> </h2>
 <p>A atualização representa uma mudança substantiva na arquitetura de coleta de dados da Google, expandindo significativamente o corpus de treinamento para modelos de IA com dados multimídia de usuários ativos. Embora mecanismos de opt-out estejam tecnicamente disponíveis, a configuração padrão ativa e a segregação intencional entre diferentes opções de privacidade criam barreiras cognitivas para exclusão efetiva dos dados. Usuários preocupados com privacidade devem rever proativamente ambas as configurações mencionadas nos painéis de controle de conta.</p>
 <p><em>Este resumo foi elaborado com base em fontes jornalísticas verificáveis sobre mudanças de políticas anunciadas em junho-julho de 2026. As definições técnicas específicas podem sofrer atualizações subsequentes por parte da Google.</em></p>
 <p> </p>
