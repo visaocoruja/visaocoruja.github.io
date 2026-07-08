@@ -3,7 +3,7 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-08T11:14:50-03:00</updated>
+    <updated>2026-07-08T11:17:01-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
@@ -20,19 +20,15 @@
         <updated>2026-07-08T11:04:58-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Resumo sobre atualização das políticas de privacidade da Google para treinamento de IA com dados multimídia dos usuários Uma mudança significativa nas políticas de privacidade dos serviços de busca da Google foi implementada em junho de 2026, ampliando o escopo de coleta de dados para&hellip;
+                    Uma mudança significativa nas políticas de privacidade dos serviços de busca da Google foi implementada em junho de 2026, ampliando o escopo de coleta de dados para fins de treinamento de modelos de inteligência artificial. A atualização autoriza explicitamente o armazenamento e processamento de arquivos&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="content-visibility-auto">
-<p><span style="color: #f2f2f5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.80203em; font-weight: bold; letter-spacing: -0.54px;">Resumo sobre atualização das políticas de privacidade da Google para treinamento de IA com dados multimídia dos usuários</span></p>
+<p><span style="font-size: inherit;">Uma mudança significativa nas políticas de privacidade dos serviços de busca da Google foi implementada em junho de 2026, ampliando o escopo de coleta de dados para fins de treinamento de modelos de inteligência artificial. A atualização autoriza explicitamente o armazenamento e processamento de arquivos multimídia enviados por usuários através dos serviços de busca da plataforma, incluindo imagens, gravações de áudio, vídeos e outros arquivos. Esta análise examina o âmbito técnico da implementação, os serviços afetados e os mecanismos disponíveis para controle do usuário.</span></p>
 </div>
 <div class="content-visibility-auto">
-<h2>Introdução</h2>
-</div>
-<div class="content-visibility-auto">
-<p>Uma mudança significativa nas políticas de privacidade dos serviços de busca da Google foi implementada em junho de 2026, ampliando o escopo de coleta de dados para fins de treinamento de modelos de inteligência artificial. A atualização autoriza explicitamente o armazenamento e processamento de arquivos multimídia enviados por usuários através dos serviços de busca da plataforma, incluindo imagens, gravações de áudio, vídeos e outros arquivos. Esta análise examina o âmbito técnico da implementação, os serviços afetados e os mecanismos disponíveis para controle do usuário.</p>
 <figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/24/google_ia_1-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/24/responsive/google_ia_1-720x405-2xl.jpg 1920w"></figure>
 </div>
 <div class="content-visibility-auto">
