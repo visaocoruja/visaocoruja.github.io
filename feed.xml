@@ -3,7 +3,7 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-10T20:34:18-03:00</updated>
+    <updated>2026-07-10T20:38:18-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
@@ -155,12 +155,10 @@
 <div class="content-visibility-auto">
 <p>O IPA constitui sua contraparte proprietária desenvolvida pela Apple para organizar, autenticar e divulgar aplicativos em aparelhos móveis que operam com iOS. Tal formato destina-se exclusivamente aos iPhones, configurando um modelo fechado que a App Store emprega para fornecer softwares dentro do ecossistema da empresa.</p>
 <div class="content-visibility-auto">
-<div class="content-visibility-auto"> </div>
+<div> </div>
+<div><strong style="font-size: inherit;">Considerações críticas sobre a Google e o ecossistema Android</strong></div>
 <div class="content-visibility-auto">
 <div class="progressive-markdown-content markdown-rendering">
-<div class="content-visibility-auto">
-<p><strong>Considerações críticas sobre a Google e o ecossistema Android</strong></p>
-</div>
 <div class="content-visibility-auto">
 <p>Ao analisar a trajetória da plataforma Android sob a ótica do manifesto "<a href="https://keepandroidopen.org/">Keep Android Open</a>", emergem contradições relevantes entre a promessa inicial de liberdade e as práticas contemporâneas da corporação. O Android nasceu com a proposta de ser um sistema operacional aberto, em que usuários podiam instalar qualquer aplicação mediante arquivos APK, independentemente de canais oficiais de distribuição.</p>
 </div>
@@ -179,6 +177,7 @@
 <div class="content-visibility-auto">
 <p>A posição da empresa revela um dilema entre responsabilidade de segurança e preservação da abertura histórica do Android. Enquanto argumentos de proteção ao usuário têm legitimidade, a execução prática sugere priorização do controle corporativo em detrimento da liberdade tradicional que caracterizou a plataforma durante mais de uma década. A evolução futura do Android dependerá, portanto, do equilíbrio entre essas duas forças antagônicas.</p>
 <div class="content-visibility-auto">
+<p><strong>O que é o Keep Android Open?</strong></p>
 <p>O <strong>Keep Android Open</strong> é um movimento organizado por desenvolvedores, organizações de software livre e consumidores para defender a manutenção da liberdade de instalação no ecossistema Android. A iniciativa surgiu como resposta às novas políticas da Google que exigem verificação obrigatória de desenvolvedores para todos os aplicativos instalados em dispositivos certificados, incluindo instalações por sideloading.</p>
 </div>
 <div class="content-visibility-auto">
