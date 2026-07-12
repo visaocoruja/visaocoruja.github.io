@@ -3,7 +3,7 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-12T11:15:04-03:00</updated>
+    <updated>2026-07-12T11:19:13-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
@@ -118,6 +118,21 @@
 </div>
 <div class="content-visibility-auto">
 <p>Mais do que um simples monitor de rede, a ferramenta representa a essência do movimento de código aberto: democratizar o acesso a tecnologias sofisticadas, colocar o controle nas mãos do usuário e permitir que a comunidade contribua para seu aprimoramento contínuo. Em um momento em que a privacidade digital e o conhecimento sobre o próprio tráfego de dados são temas centrais, iniciativas como essa ganham relevância ainda maior.</p>
+<div class="content-visibility-auto">
+<p><strong>Onde obter o Sniffnet</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Para quem deseja experimentar a ferramenta, o Sniffnet está disponível gratuitamente para download no site oficial do projeto:</p>
+</div>
+<div class="content-visibility-auto">
+<p>🔗 <strong><a href="https://sniffnet.app/">https://sniffnet.app/</a></strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>No portal, os usuários têm acesso às versões para Windows, Linux e macOS, além de documentação de instalação e instruções de configuração. Como projeto de código aberto, o repositório também oferece a possibilidade de auditar o código-fonte e contribuir com melhorias diretamente com a equipe de desenvolvimento.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A distribuição segue o modelo open source sob as licenças MIT e Apache 2.0, garantindo transparência sobre o funcionamento interno da aplicação e liberdade para uso, modificação e compartilhamento conforme permitido pelas respectivas licenças.</p>
+</div>
 <p> </p>
 <div class="content-visibility-auto">
 <p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos nesta área de monitoramento de rede e suas implicações estratégicas para organizações e indivíduos.</p>
