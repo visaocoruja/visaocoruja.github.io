@@ -3,12 +3,87 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-13T18:42:09-03:00</updated>
+    <updated>2026-07-14T11:12:50-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
+    <entry>
+        <title>Ghost Font: mensagem oculta para algoritmos, visível ao olho humano</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html"/>
+        <id>https://visaocoruja.github.io/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html</id>
+
+        <updated>2026-07-14T10:55:42-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Em um cenário onde sistemas de Inteligência Artificial (IA) demonstram capacidade crescente de interpretação de conteúdo visual e textual, desenvolve-se uma iniciativa que busca desafiar essa tendência: o projeto Ghost Font. A proposta consiste na inserção de comunicações disfarçadas em vídeos por meio de pontos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Em um cenário onde sistemas de Inteligência Artificial (IA) demonstram capacidade crescente de interpretação de conteúdo visual e textual, desenvolve-se uma iniciativa que busca desafiar essa tendência: o projeto Ghost Font. A proposta consiste na inserção de comunicações disfarçadas em vídeos por meio de pontos em deslocamento, perceptíveis pela visão humana enquanto permanecem essencialmente ilegíveis para os modelos de IA mais sofisticados disponíveis atualmente.</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/49/ghost-font-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-2xl.jpg 1920w"></figure>
+<div class="content-visibility-auto">
+<p>Desenvolvida pela Mixfont, a Ghost Font rompe com o conceito convencional de tipografia — não há arquivo TTF para baixar nem instalar. Trata-se, na verdade, de uma experiência visual que converte texto em um vídeo curto, no qual cada letra é construída por dezenas de pontos em movimento contínuo.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Durante a reprodução, o cérebro humano é capaz de reconhecer o padrão e decifrar a mensagem por meio do deslocamento dos pontos. No entanto, ao pausar o vídeo ou capturar uma imagem estática da tela, esses elementos se dissipam em meio ao ruído visual e a mensagem se torna completamente invisível. Nenhum quadro isolado revela o conteúdo — apenas a sequência animada permite a leitura.</p>
+<div class="content-visibility-auto">
+<p><strong>Origens que remontam a 2013</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>O princípio não é inédito. Em 2013, o designer Sang Mun apresentou a tipologia ZXX, concebida com o objetivo específico de resistir à interpretação por sistemas de OCR (reconhecimento óptico de caracteres), mantendo-se acessível à leitura humana. O método consistia em adicionar ruído visual, traços e marcas falsas sobre as letras, dificultando a captação automatizada.</p>
+</div>
+<div class="content-visibility-auto">
+<p>À época, a ZXX chegou a ser classificada como uma solução "à prova de vigilância".</p>
+</div>
+<div class="content-visibility-auto">
+<p>Passado mais de uma década, no entanto, o cenário mudou significativamente. Os modelos de IA contemporâneos já são capazes de decodificar textos desse tipo com considerável facilidade. Os próprios criadores da Mixfont submeteram a fonte a ferramentas de IA generativa, e a mensagem camuflada foi identificada em uma única solicitação.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/49/chatgpt-ler-zxx-1024x1020.jpg" alt="" width="1024" height="1020" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-2xl.jpg 1920w">
+<figcaption>O ChatGPT leu facilmente um texto escrito com a fonte ZXX. Fonte: <a target="_blank" href="https://www.mixfont.com/ghost-font" rel="noopener">MixFont</a></figcaption>
+</figure>
+</div>
+</div>
+<p><strong style="font-size: inherit;">Ghost Font enfrenta os modelos mais sofisticados do mercado</strong></p>
+<div class="content-visibility-auto">
+<p>Foi justamente para superar essa barreira que a Ghost Font foi concebida. Os responsáveis pelo projeto afirmam que vídeos criados com a técnica foram testados contra alguns dos modelos de IA mais poderosos disponíveis hoje, incluindo sistemas dotados de raciocínio avançado e capacidade de executar código.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Os resultados, segundo a equipe da Mixfont, foram promissores. Os modelos avaliados demonstraram dificuldade considerável em decifrar a mensagem real. Em diversos casos, a IA identificou apenas uma "mensagem disfarçada" — inserida propositalmente no vídeo como uma camada extra de proteção, com o objetivo de confundir tentativas mais incisivas de análise automatizada.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Apesar disso, os próprios criadores admitem que a solução não é definitivamente à prova de quebra. Teoricamente, um agente de IA com acesso a um ambiente de execução de código local poderia analisar o deslocamento dos pontos frame a frame e, eventualmente, reconstruir o conteúdo oculto. Para os autores, a garantia de sigilo absoluto diante da IA ainda reside na encriptação convencional.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/49/gpt-sol-5-6-ultra-ler-ghost-font-1024x655.jpg" alt="" width="1024" height="655" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-2xl.jpg 1920w">
+<figcaption>O GPT-Sol 5.6 Ultra tentou descodificar uma mensagem escrita com a fonte Ghost. O modelo leu a mensagem disfarçada, mas não conseguiu ler a mensagem real em movimento. Fonte: <a target="_blank" href="https://www.mixfont.com/ghost-font" rel="noopener">MixFont</a></figcaption>
+</figure>
+<div class="content-visibility-auto">
+<p><strong>Quais os possíveis usos?</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Entre as perspectivas de aplicação futura do projeto, destaca-se a integração em sistemas de CAPTCHA — mecanismos de verificação que, atualmente, são contornados com relativa facilidade por bots acionados por inteligência artificial.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A utilização de movimento em vídeo poderia tornar esse tipo de autenticação mais resistente à automação, mantendo a simplicidade de uso para pessoas reais. Trata-se de uma alternativa potencial aos desafios visuais estáticos, que já demonstram vulnerabilidade crescente diante de algoritmos avançados.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Os criadores também mencionam outra utilização interessante: empregar a Ghost Font como referência de medição (benchmark) para acompanhar o progresso da percepção visual das IAs. À medida que surgirem modelos verdadeiramente "nativos" em formato de vídeo — capazes de processar sequências de movimento e não apenas imagens individuais —, a tecnologia poderá servir como termômetro para avaliar até que ponto esses sistemas evoluíram na capacidade de decodificar padrões dinâmicos.</p>
+<p>Para quem deseja aprofundar-se no assunto, acesse o site oficial do Ghost Font, onde é possível visualizar a ferramenta e conhecer todos os detalhes técnicos do projeto: <a href="https://www.mixfont.com/ghost-font">https://www.mixfont.com/ghost-font</a>.</p>
+<div class="content-visibility-auto">
+<p> </p>
+<p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos nesta área de percepção visual artificial e suas implicações práticas para comunicação segura e proteção de conteúdo.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Acompanhe nossas análises regulares sobre tecnologias emergentes de ocultação de dados, técnicas de ofuscação de IA e movimentações relevantes no cenário internacional de segurança visual.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>O que motiva quem filma agressão contra animais? Especialistas apontam sinais de alerta</title>
         <author>
@@ -998,103 +1073,6 @@
 </div>
 <div class="content-visibility-auto">
 <p>A hora é agora.</p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Satélite capaz de refletir luz solar para a Terra recebe autorização dos EUA</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/satelite-capaz-de-refletir-luz-solar-para-a-terra-recebe-autorizacao-dos-eua.html"/>
-        <id>https://visaocoruja.github.io/satelite-capaz-de-refletir-luz-solar-para-a-terra-recebe-autorizacao-dos-eua.html</id>
-
-        <updated>2026-07-11T10:25:58-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Projeto que parecia restrito à ficção científica ganha tração no mundo real. A startup norte-americana Reflect Orbital desenvolve um satélite projetado para redirecionar luz solar para a superfície terrestre após o pôr do sol — iniciativa que acaba de receber luz verde das autoridades dos&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Projeto que parecia restrito à ficção científica ganha tração no mundo real. A startup norte-americana Reflect Orbital desenvolve um satélite projetado para redirecionar luz solar para a superfície terrestre após o pôr do sol — iniciativa que acaba de receber luz verde das autoridades dos Estados Unidos para avançar.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/39/reflect-orbital00-1-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital00-1-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<h2>FCC aprova sistemas de comunicação de satélite experimental da Reflect Orbital</h2>
-</div>
-<div class="content-visibility-auto">
-<p>A Comissão Federal de Comunicações dos Estados Unidos (FCC) concedeu autorização para a operação dos sistemas de rádio do satélite experimental Eärendil 1, desenvolvido pela startup Reflect Orbital. A decisão representa um avanço concreto para a empresa, embora com um recorte específico.</p>
-</div>
-<div class="content-visibility-auto">
-<p>O projeto ambiciona comprovar a viabilidade técnica de redirecionar luz solar desde a órbita terrestre para iluminar regiões delimitadas do planeta após o entardecer — proposta que segue suscitando debates entre especialistas e astrônomos, preocupados com potenciais impactos sobre a observação celeste.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Apesar de o parecer da FCC configurar um marco importante para a iniciativa, o escopo da autorização restringe-se exclusivamente ao funcionamento dos equipamentos de comunicação do satélite. A agência reguladora deixou claro que a superfície refletora — justamente o componente mais controverso do projeto — não se insere dentro de suas atribuições normativas.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/39/reflect-orbital02-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/39/responsive/reflect-orbital02-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<h2>Satélite espelho operará em órbita para iluminar áreas terrestres sob demanda</h2>
-</div>
-<div class="content-visibility-auto">
-<p>O satélite experimental Eärendil 1 atuará em altitude próxima a 625 quilômetros, percorrendo órbita de inclinação quase polar. Após o lançamento, o veículo desdobrará um painel espelhado constituído de Mylar aluminizado, com dimensões de 18 por 18 metros — resultando em área refletora total de 324 metros quadrados.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A função do dispositivo consiste em canalizar feixe solar para região terrestre de aproximadamente cinco quilômetros de diâmetro, comprovando assim a capacidade de apontamento e controle com alto grau de precisão.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Conforme a Reflect Orbital, tal tecnologia poderia, em cenários futuros, oferecer "luz solar sob solicitação" a usinas fotovoltaicas, possibilitando extensão da geração energética além do horário convencional de entardecer.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Outras utilizações potenciais contemplam operações emergenciais, atividades construtivas, práticas agrícolas e eventos realizados ao ar livre.</p>
-</div>
-<div class="content-visibility-auto">
-<h2>Constelação massiva ainda depende de comprovação técnica</h2>
-</div>
-<div class="content-visibility-auto">
-<p>A licença outorgada pela FCC não autoriza, neste momento, o avanço da empresa para a constelação de milhares de satélites previamente descrita como projeção futura.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Antes de qualquer expansão, faz-se necessário confirmar que o Eärendil 1 conseguirá ser lançado, desdobrar adequadamente o painel espelhado e governar a reflexão luminosa com segurança e exatidão suficientes.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Representantes da companhia asseguram que os feixes serão direcionados exclusivamente para locais previamente aprovados, que os espelhos podem ser incluídos em orientação afastada da Terra quando inativos e que há disposição para cooperar com a comunidade astronômica no sentido de mitigar interferências.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Mesmo com essas garantias, o êxito da missão experimental permanecerá como fator decisivo para avaliar se a perspectiva de "luz solar sob demanda" tem condições reais de se concretizar.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/39/camiao_lixo_espaco01-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/39/responsive/camiao_lixo_espaco01-720x405-2xl.webp 1920w"></figure>
-<div class="content-visibility-auto">
-<h2>Astrônomos expressam reservas sobre projeto de satélite refletor</h2>
-</div>
-<div class="content-visibility-auto">
-<p>O projeto da Reflect Orbital tem enfrentado resistência considerável por parte de pesquisadores e profissionais da astronomia. Especialistas vinculados ao Observatório Europeu do Sul (ESO) advertem que uma eventual constelação de satélites com extensas superfícies espelhadas pode converter tais equipamentos em alguns dos objetos artificiais mais luminosos registrados em órbita.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Tal preocupação ecoa receios já manifestados anteriormente diante de outros artefatos lançados ao espaço. Pesquisadores destacam que o incremento de reflexos luminosos no firmamento pode:</p>
-</div>
-<div class="content-visibility-auto">
-<ul>
-<li>Prejudicar observações astronômicas tradicionais;</li>
-<li>Gerar rastros brilhantes em imagens obtidas por telescópios;</li>
-<li>Elevar o brilho geral do céu noturno.</li>
-</ul>
-<p>Todos esses fatores concorrem para dificultar o estudo de corpos celestes de luminosidade reduzida.</p>
-<h3>Impactos ambientais e regulatórios também são debatidos</h3>
-<p>Outras questões têm sido levantadas por especialistas quanto às consequências potenciais da tecnologia:</p>
-<ul>
-<li>Alterações sobre a fauna de hábitos noturnos;</li>
-<li>Interferências nos ciclos biológicos humanos;</li>
-<li>Riscos para operações da aviação.</li>
-</ul>
-<p>Ainda, críticos apontam preocupações de natureza ético-política, relacionadas à possibilidade de uma corporação privada determinar o momento e os locais que receberiam iluminação artificial a partir da órbita terrestre — questão que toca em temas de soberania e governança do espaço.</p>
-<p> </p>
-<div class="content-visibility-auto">
-<p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos nesta área de tecnologia espacial refletora e suas implicações estratégicas para a comunidade científica, setor energético e operações aéreas.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Acompanhe nossas análises regulares sobre inovações orbitais, impactos astronômicos e movimentações relevantes no cenário internacional de satélites experimentais e infraestrutura espacial.</p>
-</div>
-</div>
-</div>
 </div>
             ]]>
         </content>
