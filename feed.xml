@@ -3,24 +3,12 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-15T00:57:39-03:00</updated>
+    <updated>2026-07-14T16:36:10-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
-    <entry>
-        <title>teste</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/teste.html"/>
-        <id>https://visaocoruja.github.io/teste.html</id>
-
-        <updated>2026-07-15T00:57:39-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Nos EUA, críticas ao ICE podem resultar em visitas não solicitadas de agentes federais</title>
         <author>
@@ -1019,6 +1007,114 @@
 </div>
 </div>
 </div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cibersegurança: O que é o TLP e por que é tão importante?</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/ciberseguranca-o-que-e-o-tlp-e-por-que-e-tao-importante.html"/>
+        <id>https://visaocoruja.github.io/ciberseguranca-o-que-e-o-tlp-e-por-que-e-tao-importante.html</id>
+
+        <updated>2026-07-11T17:56:06-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    O compartilhamento de informações constitui um dos fundamentos essenciais da cibersegurança. Empresas, órgãos governamentais, equipes de resposta a incidentes (CSIRT), desenvolvedores de software e pesquisadores trocam diariamente indicadores de comprometimento (IoC), falhas de segurança, metodologias de ataque e dados de inteligência sobre ameaças. Você já&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>O compartilhamento de informações constitui um dos fundamentos essenciais da cibersegurança. Empresas, órgãos governamentais, equipes de resposta a incidentes (CSIRT), desenvolvedores de software e pesquisadores trocam diariamente indicadores de comprometimento (IoC), falhas de segurança, metodologias de ataque e dados de inteligência sobre ameaças. Você já teve contato com o conceito de TLP?</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/41/semaforo_01-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/41/responsive/semaforo_01-720x405-2xl.jpg 1920w"></figure>
+<div> </div>
+<div class="content-visibility-auto">
+<p><strong>Entendendo o Traffic Light Protocol (TLP)</strong></p>
+<p>O Traffic Light Protocol (TLP) consiste em um sistema simplificado de classificação que determina quem pode acessar informações compartilhadas. Atualmente, trata-se de um padrão internacional mantido pela FIRST (Forum of Incident Response and Security Teams) e é adotado globalmente.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O TLP funciona como um conjunto de etiquetas que estabelecem o nível de divulgação autorizado para determinado dado. Diferentemente de classificações de segurança tradicionais (como "Confidencial" ou "Secreto"), o TLP não avalia a sensibilidade da informação. Seu propósito é especificar com quem esses dados podem ser compartilhados, fomentando uma colaboração segura entre organizações.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A partir de 2022, a versão oficial do protocolo passou a ser o TLP 2.0, que trouxe modificações relevantes, incluindo a substituição da etiqueta TLP:WHITE por TLP:CLEAR.</p>
+<p><strong>As Quatro Classificações do TLP</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p><strong>🔴 TLP:RED</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Trata-se do nível mais restritivo do protocolo. A informação só pode ser conhecida pelos destinatários explicitamente identificados na comunicação. Não deve ser repassada para colegas, outras equipes ou organizações.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Geralmente utilizado quando uma divulgação mais ampla poderia comprometer uma investigação, colocar sistemas em risco ou afetar a privacidade das pessoas envolvidas.</p>
+</div>
+<div class="content-visibility-auto">
+<p><em>Exemplos:</em> Informações sobre ataques em andamento, dados sensíveis de investigações forenses, vulnerabilidades críticas ainda não corrigidas.</p>
+</div>
+<div class="content-visibility-auto"> </div>
+<div class="content-visibility-auto">
+<p><strong>🟠 TLP:AMBER</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Nesta classificação, a informação pode ser compartilhada internamente dentro da organização, mas apenas com profissionais que precisam efetivamente acessá-la para executar suas funções.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A versão 2.0 adicionou a designação TLP:AMBER+STRICT, que impõe restrições ainda maiores, vedando a divulgação para clientes ou entidades externas à organização.</p>
+</div>
+<div class="content-visibility-auto">
+<p><em>Exemplos:</em> Indicadores de comprometimento, relatórios técnicos, medidas de mitigação antes da publicação pública.</p>
+</div>
+<div class="content-visibility-auto"> </div>
+<div class="content-visibility-auto">
+<p><strong>🟢 TLP:GREEN</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Permite o compartilhamento dentro de uma comunidade específica. A informação pode circular entre organizações de um mesmo setor, parceiros ou comunidades de confiança, contudo nunca deve ser divulgada em locais acessíveis ao público geral.</p>
+</div>
+<div class="content-visibility-auto">
+<p><em>Exemplos:</em> Alertas entre instituições de ensino superior, comunicações entre CSIRT, intercâmbio entre empresas de um mesmo setor.</p>
+</div>
+<div class="content-visibility-auto"> </div>
+<div class="content-visibility-auto">
+<p><strong>⚪ TLP:CLEAR</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Corresponde à antiga designação TLP:WHITE. Neste caso, a informação pode ser divulgada sem restrições, inclusive em sites, redes sociais, artigos técnicos ou comunicados oficiais.</p>
+</div>
+<div class="content-visibility-auto">
+<p><em>Exemplos:</em> Avisos públicos, relatórios publicados, boletins de segurança, publicações técnicas.</p>
+</div>
+<div> </div>
+<div class="content-visibility-auto"><span style="font-size: inherit;">Em um contexto onde a colaboração se torna cada vez mais crucial para responder a incidentes de cibersegurança, o Traffic Light Protocol (TLP) consolidou-se como referência global para o compartilhamento responsável de informações.</span></div>
+<div> </div>
+<div><figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/41/tlp-720x720.jpg" alt="" width="720" height="720" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/41/responsive/tlp-720x720-2xl.jpg 1920w"></figure></div>
+<div> </div>
+<div>Por sua simplicidade de aplicação e facilidade de interpretação, o protocolo auxilia organizações de todos os portes a proteger dados sensíveis sem prejudicar a colaboração indispensável para lidar com as ameaças contemporâneas. A implementação da versão TLP 2.0 fortalece ainda mais esse propósito, disponibilizando diretrizes claras e consistentes para um ecossistema global de compartilhamento de informações.</div>
+<div> </div>
+<div>
+<div class="content-visibility-auto">
+<p>O Traffic Light Protocol (TLP) emergiu como ferramenta essencial para equilibrar dois objetivos fundamentais na cibersegurança: proteger informações sensíveis enquanto permite a colaboração necessária entre organizações para enfrentar ameaças cada vez mais sofisticadas.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Seu valor reside na simplicidade e universalidade. Com apenas quatro classificações (TLP:RED, TLP:AMBER, TLP:GREEN e TLP:CLEAR), oferece clareza imediata sobre quem pode acessar e compartilhar determinados dados, eliminando ambiguidades que poderiam comprometer investigações ou expor vulnerabilidades críticas.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A adoção global pelo FIRST desde 2022, juntamente com a atualização para o TLP 2.0, demonstra consenso internacional sobre a necessidade de padrões consistentes para o ecossistema de segurança cibernética. À medida que a troca de inteligência sobre ameaças se torna cada vez mais crucial para a defesa coletiva, protocolos como o TLP asseguram que essa colaboração ocorra de forma estruturada, segura e responsável.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Em última análise, o TLP não é apenas um sistema de etiquetagem — representa uma cultura de compartilhamento consciente, onde a transparência coexiste com a proteção adequada dos dados mais sensíveis.</p>
+<p> </p>
+<div class="content-visibility-auto">
+<div class="content-visibility-auto">
+<p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos no Traffic Light Protocol e suas implicações estratégicas para organizações e indivíduos.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Acompanhe nossas análises regulares sobre classificações de compartilhamento, práticas de proteção de dados e movimentações relevantes no cenário internacional de colaboração em cibersegurança.</p>
 </div>
 </div>
 </div>
