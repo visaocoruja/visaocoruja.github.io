@@ -3,7 +3,7 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-15T22:30:11-03:00</updated>
+    <updated>2026-07-15T22:43:03-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
@@ -56,15 +56,10 @@
 </div>
 <div class="content-visibility-auto">
 <p>As recomendações de boas práticas seguem válidas: adotar senhas extensas e exclusivas para cada serviço; utilizar gerenciadores dedicados; habilitar autenticação multifator (MFA); evitar termos constantes em dicionários ou padrões previsíveis; e, por parte dos provedores de serviço, empregar algoritmos modernos de armazenamento de credenciais, como bcrypt, Argon2 ou PBKDF2.</p>
-<p><strong>Hashcat revela a fragilidade das credenciais e a responsabilidade compartilhada na era da segurança digital</strong></p>
 <div class="content-visibility-auto">
-<p>O Hashcat ilustra de forma contundente a velocidade com que credenciais fracas podem ser comprometidas, reafirmando uma realidade incontornável no campo da cibersegurança: a eficácia das senhas como mecanismo de proteção depende diretamente de sua complexidade e singularidade. A ferramenta, embora legítima e amplamente utilizada por profissionais de segurança para auditorias e testes de penetração, evidencia a vulnerabilidade inerente a práticas inadequadas de gestão de credenciais — especialmente o reuso de senhas e a adoção de combinações previsíveis.</p>
+<p><span style="font-size: inherit;">Em última análise, ferramentas como o Hashcat não sinalizam o fim das senhas, mas sim a urgência de elevação dos padrões de segurança — tanto individuais quanto institucionais — num ambiente digital em que ameaças evoluem com rapidez crescente. A defesa eficaz começa, cada vez mais, na conscientização de que a simplicidade pode ser a porta de entrada para a vulnerabilidade.</span></p>
 </div>
 <div class="content-visibility-auto">
-<p>O cenário atual reforça que a responsabilidade pela segurança de senhas é compartilhada. De um lado, os usuários devem adotar medidas como gerenciadores de credenciais, autenticação multifator e senhas únicas e robustas. Do outro, os provedores de serviços têm o dever de implementar algoritmos modernos de hash, capazes de dificultar significativamente tentativas de quebra mesmo em cenários de vazamento de bases de dados.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Em última análise, ferramentas como o Hashcat não sinalizam o fim das senhas, mas sim a urgência de elevação dos padrões de segurança — tanto individuais quanto institucionais — num ambiente digital em que ameaças evoluem com rapidez crescente. A defesa eficaz começa, cada vez mais, na conscientização de que a simplicidade pode ser a porta de entrada para a vulnerabilidade.</p>
 <p> </p>
 <div class="content-visibility-auto">
 <p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos nesta área de segurança de credenciais e suas implicações estratégicas para organizações e indivíduos.</p>
