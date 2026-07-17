@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Visão Coruja</title>
-    <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
-    <link href="https://visaocoruja.github.io" />
+    <link href="https://visaocoruja.pages.dev/feed.xml" rel="self" />
+    <link href="https://visaocoruja.pages.dev" />
     <updated>2026-07-16T22:54:10-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
-    <id>https://visaocoruja.github.io</id>
+    <id>https://visaocoruja.pages.dev</id>
 
     <entry>
         <title>teste</title>
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/teste.html"/>
-        <id>https://visaocoruja.github.io/teste.html</id>
+        <link href="https://visaocoruja.pages.dev/teste.html"/>
+        <id>https://visaocoruja.pages.dev/teste.html</id>
 
         <updated>2026-07-16T22:54:10-03:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/ue-quer-obrigar-passaporte-digital-para-navegar-na-internet-analistas-debatem-medidas-atuais-e-possiveis-cenarios-futuros.html"/>
-        <id>https://visaocoruja.github.io/ue-quer-obrigar-passaporte-digital-para-navegar-na-internet-analistas-debatem-medidas-atuais-e-possiveis-cenarios-futuros.html</id>
+        <link href="https://visaocoruja.pages.dev/ue-quer-obrigar-passaporte-digital-para-navegar-na-internet-analistas-debatem-medidas-atuais-e-possiveis-cenarios-futuros.html"/>
+        <id>https://visaocoruja.pages.dev/ue-quer-obrigar-passaporte-digital-para-navegar-na-internet-analistas-debatem-medidas-atuais-e-possiveis-cenarios-futuros.html</id>
 
         <updated>2026-07-16T21:41:23-03:00</updated>
             <summary type="html">
@@ -38,7 +38,7 @@
         <content type="html">
             <![CDATA[
                 <p>A circulação de informações nas redes sociais sugere que a União Europeia planeja exigir algum tipo de identificação digital obrigatória como condição prévia para conexão à internet. Na prática, no entanto, a situação não corresponde a essa narrativa.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/57/verificacao-idade-identidade-ue-2-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/57/verificacao-idade-identidade-ue-2-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/57/responsive/verificacao-idade-identidade-ue-2-1024x576-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto"> </div>
 <div class="content-visibility-auto">
 <p><strong>Desinformação sobre "passaporte digital" da UE se espalha, mas esconde detalhes da medida real</strong></p>
@@ -57,7 +57,7 @@
 <p><strong>Funcionamento na prática</strong></p>
 <p>O sistema somente confirma se o usuário possui idade mínima adequada, sem registrar identidade, data de nascimento ou quaisquer outros dados pessoais identificáveis.</p>
 <p>A tecnologia empregada é conhecida como prova de conhecimento zero, que permite autenticação sem revelação de informações subjacentes.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/57/internet-jovens-adulto-tecnologia2-1-1024x576-2.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/57/internet-jovens-adulto-tecnologia2-1-1024x576-2.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/57/responsive/internet-jovens-adulto-tecnologia2-1-1024x576-2-2xl.jpg 1920w"></figure>
 <p><strong>Não será obrigatório para navegar na internet? Comissão diz que não, mas prazos e pressões levantam suspeitas</strong></p>
 <div class="content-visibility-auto">
 <p>Um dos pontos mais manipulados pela campanha de desinformação é a suposta obrigatoriedade universal.</p>
@@ -155,8 +155,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html"/>
-        <id>https://visaocoruja.github.io/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html</id>
+        <link href="https://visaocoruja.pages.dev/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html"/>
+        <id>https://visaocoruja.pages.dev/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html</id>
 
         <updated>2026-07-15T22:30:11-03:00</updated>
             <summary type="html">
@@ -167,7 +167,7 @@
         <content type="html">
             <![CDATA[
                 <p>Senhas seguem como principal barreira de proteção para milhões de usuários e organizações em todo o mundo. Quando pouco robustas ou previsíveis, contudo, podem ser descobertas em questão de segundos — evidenciando risco permanente à segurança digital.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/54/hashcat_00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/54/hashcat_00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat_00-720x405-2xl.jpg 1920w"></figure>
 <p>Uma das ferramentas mais conhecidas para demonstrar esta realidade é o Hashcat, uma solução de recuperação de palavras-passe amplamente utilizada por investigadores de segurança, equipas de pentesting e analistas forenses.</p>
 <h3>O que é o Hashcat?</h3>
 <p>O Hashcat é um software open source especializado na recuperação de palavras-passe a partir de hashes. Em vez de tentar "desencriptar" um hash, algo matematicamente impossível nas funções de hash modernas, a ferramenta gera milhares ou milhões de palavras-passe candidatas, calcula o respetivo hash e compara o resultado com o hash original. Quando existe correspondência, a palavra-passe foi encontrada.</p>
@@ -185,7 +185,7 @@
 <li>WPA/WPA2</li>
 <li>Entre muitos outros.</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/54/hashcat-legacy.png" alt="" width="720" height="524" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-xs.png 640w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-sm.png 768w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-md.png 1024w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-lg.png 1366w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-xl.png 1600w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/54/hashcat-legacy.png" alt="" width="720" height="524" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-xs.png 640w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-sm.png 768w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-md.png 1024w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-lg.png 1366w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-xl.png 1600w ,https://visaocoruja.pages.dev/media/posts/54/responsive/hashcat-legacy-2xl.png 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>Métodos de quebra de senhas e aplicações profissionais do Hashcat</strong></p>
 </div>
@@ -218,8 +218,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/acordos-de-armazenamento-visam-reduzir-desperdicio-de-energia-renovavel-na-uniao-europeia.html"/>
-        <id>https://visaocoruja.github.io/acordos-de-armazenamento-visam-reduzir-desperdicio-de-energia-renovavel-na-uniao-europeia.html</id>
+        <link href="https://visaocoruja.pages.dev/acordos-de-armazenamento-visam-reduzir-desperdicio-de-energia-renovavel-na-uniao-europeia.html"/>
+        <id>https://visaocoruja.pages.dev/acordos-de-armazenamento-visam-reduzir-desperdicio-de-energia-renovavel-na-uniao-europeia.html</id>
 
         <updated>2026-07-15T22:18:03-03:00</updated>
             <summary type="html">
@@ -234,7 +234,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>O projeto, denominado "grid boosters", busca aumentar a capacidade de retenção de energia gerada por fontes renováveis, evitando que sobras de produção sejam perdidas quando a demanda não acompanha o fornecimento. A iniciativa reflete preocupação das autoridades da UE em maximizar o retorno dos investimentos em transição energética e garantir maior eficiência na distribuição de eletricidade nos mercados nacionais.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/53/armazenamento-energia04-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/53/responsive/armazenamento-energia04-720x405-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/53/armazenamento-energia04-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/53/responsive/armazenamento-energia04-720x405-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>Primeiro pacto europeu une Estado, setor privado e instituições financeiras para expandir capacidade de armazenamento energético</strong></p>
 </div>
@@ -246,7 +246,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>O desafio representa dimensão considerável diante do cenário atual: a UE dispõe atualmente de cerca de 55 GW instalados, enquanto projeções apontam necessidade de 200 GW até 2030 para atender à crescente geração de energia renovável.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/53/mapa_energia_renovavel00-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/53/responsive/mapa_energia_renovavel00-720x405-2xl.webp 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/53/mapa_energia_renovavel00-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-xs.webp 640w ,https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-sm.webp 768w ,https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-md.webp 1024w ,https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-lg.webp 1366w ,https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-xl.webp 1600w ,https://visaocoruja.pages.dev/media/posts/53/responsive/mapa_energia_renovavel00-720x405-2xl.webp 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>Armazenamento torna-se urgente diante do desperdício de energia renovável na Europa</strong></p>
 </div>
@@ -258,7 +258,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>Para a executiva, investir em armazenamento configura-se como a única alternativa para reduzir preços de maneira estrutural, fortalecer a resiliência do sistema e promover a transição definitiva para longe dos combustíveis fósseis.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/53/rede_eletrica_eletricidade_energia00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/53/rede_eletrica_eletricidade_energia00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/53/responsive/rede_eletrica_eletricidade_energia00-720x405-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>Armazenamento deixa de ser acessório e consolida-se como infraestrutura essencial nas redes elétricas europeias</strong></p>
 </div>
@@ -273,7 +273,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>O impacto econômico projetado também é express. Segundo projeções de Tosoni, citadas pela Euronews, a expansão do armazenamento poderia resultar em redução de até 60% nas importações de gás até 2030, com economia estimada em 9 bilhões de euros. Além disso, espera-se queda superior a 60% nos custos de congestionamento das redes associados às fontes renováveis, o que representaria cerca de 100 bilhões de euros em ganhos.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/53/gasoduto_00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/53/responsive/gasoduto_00-720x405-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/53/gasoduto_00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/53/responsive/gasoduto_00-720x405-2xl.jpg 1920w">
 <figcaption>Apesar das tentativas de independência, a UE ainda importa a grande maioria do gás que consome.</figcaption>
 </figure>
 <div class="content-visibility-auto">
@@ -304,7 +304,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>A essas dificuldades soma-se a resistência local à abertura de novos projetos de mineração, ainda que esses empreendimentos sejam fundamentais para garantir fornecimento conforme previsões da Lei das Matérias-Primas Críticas. Frequentemente, iniciativas nessa área esbarram em oposição de comunidades afetadas, dificultando o avanço da autonomia europeia no setor.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/53/india-energia-painel-solar03-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/53/responsive/india-energia-painel-solar03-720x405-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/53/india-energia-painel-solar03-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/53/responsive/india-energia-painel-solar03-720x405-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>Pacto representa avanço inicial, mas agenda mais ampla permanece em aberto</strong></p>
 </div>
@@ -334,8 +334,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/nos-eua-criticas-ao-ice-podem-resultar-em-visitas-nao-solicitadas-de-agentes-federais.html"/>
-        <id>https://visaocoruja.github.io/nos-eua-criticas-ao-ice-podem-resultar-em-visitas-nao-solicitadas-de-agentes-federais.html</id>
+        <link href="https://visaocoruja.pages.dev/nos-eua-criticas-ao-ice-podem-resultar-em-visitas-nao-solicitadas-de-agentes-federais.html"/>
+        <id>https://visaocoruja.pages.dev/nos-eua-criticas-ao-ice-podem-resultar-em-visitas-nao-solicitadas-de-agentes-federais.html</id>
 
         <updated>2026-07-14T16:17:42-03:00</updated>
             <summary type="html">
@@ -347,7 +347,7 @@
             <![CDATA[
                 <div class="content-visibility-auto">
 <p><strong>Nos Estados Unidos, manifestar publicamente críticas ao Serviço de Imigração e Fiscalização Aduaneira (ICE, na sigla em inglês) pode desencadear uma visita inesperada de agentes federais à residência de quem se pronuncia. Sem mandado judicial, sem acusação formal e, na maioria dos casos, sem que se proceda sequer a uma detenção, o procedimento assume a forma de um alerta silencioso: há alguém, em algum lugar, sendo observado.</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/50/vigilancia-redes-sociais02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/50/vigilancia-redes-sociais02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/50/responsive/vigilancia-redes-sociais02-1024x576-2xl.jpg 1920w"></figure>
 <p><strong>Tudo começou com um e-mail</strong></p>
 <div>
 <p>David Streever envolveu-se em uma disputa com o governo federal após enviar um e-mail ao então diretor interino do ICE, Todd Lyons, em que o classificou como "um ser humano monstruoso" e estabeleceu um paralelo com figuras do período nazista. A mensagem, embora incisiva, não continha ameaças concretas nem apologia da violência — restringindo-se, em essência, à livre expressão de opinião crítica dirigida a um agente público.</p>
@@ -355,7 +355,7 @@
 <p>Diante do que considera intimidação retaliatória, Streever recorreu à Justiça. A ação sustenta que o conteúdo do e-mail configura discurso político — categoria protegida pela Primeira Emenda da Constituição dos Estados Unidos.</p>
 </div>
 <div class="content-visibility-auto">
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/50/ice-eua05-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua05-1024x576-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/50/ice-eua05-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua05-1024x576-2xl.jpg 1920w">
 <figcaption>Agentes federais do ICE batem à porta de uma casa após os assassinatos de Renee Nicole Good e Alex Pretti por agentes federais de imigração em Minneapolis, no Minnesota, EUA, no dia 28 de janeiro de 2026.</figcaption>
 </figure>
 <div class="content-visibility-auto">
@@ -372,7 +372,7 @@
 <p>Em resposta a essa prática, a Electronic Frontier Foundation moveu uma ação judicial contra o DHS e o ICE, buscando acesso aos registros dessas intimações. A organização argumenta que a agência não possui legitimidade para identificar pessoas que criticam sem a devida supervisão do Poder Judiciário.</p>
 </div>
 <div class="content-visibility-auto">
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/50/ice-eua02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua02-1024x576-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/50/ice-eua02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua02-1024x576-2xl.jpg 1920w">
 <figcaption>Dois agentes do ICE filmam a imprensa com smartphones no corredor em frente ao tribunal de imigração, na cidade de Nova Iorque, no dia 11 de julho de 2025.</figcaption>
 </figure>
 <div class="content-visibility-auto">
@@ -391,7 +391,7 @@
 <p>O Centro Brennan, organização defensora de direitos civis, classifica a vigilância de mídias sociais conduzida pela Homeland Security Investigations (HSI) — setor de investigação criminal do ICE — como desproporcional e carente de mecanismos transparentes de prestação de contas.</p>
 </div>
 <div class="content-visibility-auto">
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/50/ice-eua00-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/50/responsive/ice-eua00-1024x576-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/50/ice-eua00-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/50/responsive/ice-eua00-1024x576-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>DHS defende proteção de agentes; críticos veem censura disfarçada</strong></p>
 </div>
@@ -425,8 +425,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html"/>
-        <id>https://visaocoruja.github.io/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html</id>
+        <link href="https://visaocoruja.pages.dev/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html"/>
+        <id>https://visaocoruja.pages.dev/ghost-font-mensagem-oculta-para-algoritmos-visivel-ao-olho-humano.html</id>
 
         <updated>2026-07-14T10:55:42-03:00</updated>
             <summary type="html">
@@ -437,7 +437,7 @@
         <content type="html">
             <![CDATA[
                 <p>Em um cenário onde sistemas de Inteligência Artificial (IA) demonstram capacidade crescente de interpretação de conteúdo visual e textual, desenvolve-se uma iniciativa que busca desafiar essa tendência: o projeto Ghost Font. A proposta consiste na inserção de comunicações disfarçadas em vídeos por meio de pontos em deslocamento, perceptíveis pela visão humana enquanto permanecem essencialmente ilegíveis para os modelos de IA mais sofisticados disponíveis atualmente.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/49/ghost-font-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/ghost-font-1024x576-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/49/ghost-font-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/49/responsive/ghost-font-1024x576-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p>Desenvolvida pela Mixfont, a Ghost Font rompe com o conceito convencional de tipografia — não há arquivo TTF para baixar nem instalar. Trata-se, na verdade, de uma experiência visual que converte texto em um vídeo curto, no qual cada letra é construída por dezenas de pontos em movimento contínuo.</p>
 </div>
@@ -454,7 +454,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>Passado mais de uma década, no entanto, o cenário mudou significativamente. Os modelos de IA contemporâneos já são capazes de decodificar textos desse tipo com considerável facilidade. Os próprios criadores da Mixfont submeteram a fonte a ferramentas de IA generativa, e a mensagem camuflada foi identificada em uma única solicitação.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/49/chatgpt-ler-zxx-1024x1020.jpg" alt="" width="1024" height="1020" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/49/chatgpt-ler-zxx-1024x1020.jpg" alt="" width="1024" height="1020" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/49/responsive/chatgpt-ler-zxx-1024x1020-2xl.jpg 1920w">
 <figcaption>O ChatGPT leu facilmente um texto escrito com a fonte ZXX. Fonte: <a target="_blank" href="https://www.mixfont.com/ghost-font" rel="noopener">MixFont</a></figcaption>
 </figure>
 </div>
@@ -468,7 +468,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>Apesar disso, os próprios criadores admitem que a solução não é definitivamente à prova de quebra. Teoricamente, um agente de IA com acesso a um ambiente de execução de código local poderia analisar o deslocamento dos pontos frame a frame e, eventualmente, reconstruir o conteúdo oculto. Para os autores, a garantia de sigilo absoluto diante da IA ainda reside na encriptação convencional.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/49/gpt-sol-5-6-ultra-ler-ghost-font-1024x655.jpg" alt="" width="1024" height="655" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/49/gpt-sol-5-6-ultra-ler-ghost-font-1024x655.jpg" alt="" width="1024" height="655" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/49/responsive/gpt-sol-5-6-ultra-ler-ghost-font-1024x655-2xl.jpg 1920w">
 <figcaption>O GPT-Sol 5.6 Ultra tentou descodificar uma mensagem escrita com a fonte Ghost. O modelo leu a mensagem disfarçada, mas não conseguiu ler a mensagem real em movimento. Fonte: <a target="_blank" href="https://www.mixfont.com/ghost-font" rel="noopener">MixFont</a></figcaption>
 </figure>
 <div class="content-visibility-auto">
@@ -500,8 +500,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/o-que-motiva-quem-filma-agressao-contra-animais-especialistas-apontam-sinais-de-alerta.html"/>
-        <id>https://visaocoruja.github.io/o-que-motiva-quem-filma-agressao-contra-animais-especialistas-apontam-sinais-de-alerta.html</id>
+        <link href="https://visaocoruja.pages.dev/o-que-motiva-quem-filma-agressao-contra-animais-especialistas-apontam-sinais-de-alerta.html"/>
+        <id>https://visaocoruja.pages.dev/o-que-motiva-quem-filma-agressao-contra-animais-especialistas-apontam-sinais-de-alerta.html</id>
 
         <updated>2026-07-13T18:42:09-03:00</updated>
             <summary type="html">
@@ -512,7 +512,7 @@
         <content type="html">
             <![CDATA[
                 <p>Vídeos perturbadores envolvendo maus-tratos a animais seguem circulando amplamente nas redes sociais. Por trás dessas gravações, psicólogos identificam padrões comportamentais que podem indicar algo mais preocupante do que aparenta à primeira vista.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/48/Diseno-sin-titulo-5-6-960x640.jpg" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/48/Diseno-sin-titulo-5-6-960x640.jpg" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/48/responsive/Diseno-sin-titulo-5-6-960x640-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <h2>Crueldade diante das lentes: o que revela quem filma violência contra animais</h2>
 </div>
@@ -589,8 +589,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/polo-magnetico-avanca-mais-de-2250-km-e-cientistas-correm-para-manter-gps-e-avioes-no-eixo.html"/>
-        <id>https://visaocoruja.github.io/polo-magnetico-avanca-mais-de-2250-km-e-cientistas-correm-para-manter-gps-e-avioes-no-eixo.html</id>
+        <link href="https://visaocoruja.pages.dev/polo-magnetico-avanca-mais-de-2250-km-e-cientistas-correm-para-manter-gps-e-avioes-no-eixo.html"/>
+        <id>https://visaocoruja.pages.dev/polo-magnetico-avanca-mais-de-2250-km-e-cientistas-correm-para-manter-gps-e-avioes-no-eixo.html</id>
 
         <updated>2026-07-13T18:18:15-03:00</updated>
             <summary type="html">
@@ -601,14 +601,14 @@
         <content type="html">
             <![CDATA[
                 <p>Já são mais de 2.250 quilômetros percorridos pelo polo norte magnético — um movimento contínuo que costuma alimentar teorias apocalípticas nas redes sociais. A realidade, porém, é bem menos cinematográfica e bastante mais técnica. Pesquisadores ao redor do mundo dedicam-se a uma tarefa silenciosa e essencial: recalcular e atualizar os modelos de navegação que sustentam o funcionamento de satélites GPS, aeronaves e smartphones usados diariamente por bilhões de pessoas. Em vez de um cenário de filme de catástrofe, o que está em jogo é garantir que a tecnologia que orientamos nossas rotas continue precisa — mesmo enquanto o campo magnético da Terra não para de se mover.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/47/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-xs.png 640w ,https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-sm.png 768w ,https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-md.png 1024w ,https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-lg.png 1366w ,https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-xl.png 1600w ,https://visaocoruja.github.io/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/47/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-xs.png 640w ,https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-sm.png 768w ,https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-md.png 1024w ,https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-lg.png 1366w ,https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-xl.png 1600w ,https://visaocoruja.pages.dev/media/posts/47/responsive/O-polo-norte-magnetico-ja-se-deslocou-mais-de-2.250-quilometros-960x640-2xl.png 1920w"></figure>
 <div class="content-visibility-auto">
 <p>A imagem estática que muitos fazem dos polos magnéticos como pontos fixos no planeta não resiste aos fatos. O campo magnético terrestre é, na verdade, um sistema em perpétua transformação — movimentado por forças que agitam o núcleo do planeta a milhares de quilômetros de profundidade.</p>
 </div>
 <div class="content-visibility-auto">
 <p>Nas últimas décadas, o polo norte magnético percorreu mais de 2.250 quilômetros, abandonando gradualmente o território canadense e traçando uma rota em direção à Sibéria. O fenômeno desperta curiosidade e, com frequência, reacende especulações sobre inversões magnéticas ou cenários catastróficos. Os especialistas, contudo, são categóricos: a urgência não vem de uma hipotética catástrofe global, mas da necessidade prática de manter atualizados os sistemas de navegação dos quais sociedades inteiras dependem todos os dias.</p>
 <p><strong>Polo magnético da Terra em movimento e desafios para sistemas de navegação</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/47/magnetismo-2-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-xs.png 640w ,https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-sm.png 768w ,https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-md.png 1024w ,https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-lg.png 1366w ,https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-xl.png 1600w ,https://visaocoruja.github.io/media/posts/47/responsive/magnetismo-2-960x640-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/47/magnetismo-2-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-xs.png 640w ,https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-sm.png 768w ,https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-md.png 1024w ,https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-lg.png 1366w ,https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-xl.png 1600w ,https://visaocoruja.pages.dev/media/posts/47/responsive/magnetismo-2-960x640-2xl.png 1920w"></figure>
 <div class="content-visibility-auto">
 <p>O campo magnético que envolve o nosso planeta tem origem no núcleo externo: trata-se do movimento contínuo de ferro líquido a milhares de quilômetros de profundidade. As correntes metálicas geradas nesse ambiente extremo dão vida a um imenso escudo magnético, responsável por desviar parte da radiação que chega do espaço.</p>
 </div>
@@ -635,7 +635,7 @@
 <div class="content-visibility-auto">
 <p>Além desses setores estruturados, tecnologias de uso cotidiano também dependem das atualizações do modelo. Aplicativos de navegação, sistemas de geolocalização e sensores embarcados em smartphones contam com esses dados para funcionar adequadamente. Instituições internacionais vinculadas à navegação e à cartografia adotam o modelo como referência oficial, assegurando a precisão de suas operações e serviços.</p>
 <p><strong>Risco de inversão dos polos magnéticos</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/47/Magnetismo-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-xs.png 640w ,https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-sm.png 768w ,https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-md.png 1024w ,https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-lg.png 1366w ,https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-xl.png 1600w ,https://visaocoruja.github.io/media/posts/47/responsive/Magnetismo-960x640-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/47/Magnetismo-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-xs.png 640w ,https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-sm.png 768w ,https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-md.png 1024w ,https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-lg.png 1366w ,https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-xl.png 1600w ,https://visaocoruja.pages.dev/media/posts/47/responsive/Magnetismo-960x640-2xl.png 1920w"></figure>
 <div class="content-visibility-auto">
 <p>Apesar de manchetes alarmistas que emergem ocasionalmente, cientistas reforçam: o deslocamento atual não sinaliza uma inversão magnética iminente. Ao longo de sua história geológica, a Terra experimentou inúmeras inversões de polos, mas tais eventos ocorrem em escalas temporais extensas — geralmente ao longo de milhares de anos.</p>
 </div>
@@ -662,8 +662,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/a-incrivel-densidade-do-elemento-natural-mais-pesado-do-planeta.html"/>
-        <id>https://visaocoruja.github.io/a-incrivel-densidade-do-elemento-natural-mais-pesado-do-planeta.html</id>
+        <link href="https://visaocoruja.pages.dev/a-incrivel-densidade-do-elemento-natural-mais-pesado-do-planeta.html"/>
+        <id>https://visaocoruja.pages.dev/a-incrivel-densidade-do-elemento-natural-mais-pesado-do-planeta.html</id>
 
         <updated>2026-07-13T18:01:05-03:00</updated>
             <summary type="html">
@@ -681,7 +681,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>Essa característica singular posiciona o elemento em uma categoria extraordinária entre os materiais naturais, desafiando nossa percepção intuitiva sobre o que é possível conter dentro de um recipiente portátil.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/46/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-xs.png 640w ,https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-sm.png 768w ,https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-md.png 1024w ,https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-lg.png 1366w ,https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-xl.png 1600w ,https://visaocoruja.github.io/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/46/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640.png" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-xs.png 640w ,https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-sm.png 768w ,https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-md.png 1024w ,https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-lg.png 1366w ,https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-xl.png 1600w ,https://visaocoruja.pages.dev/media/posts/46/responsive/O-material-natural-mais-pesado-da-Terra-e-tao-denso-que-uma-mochila-cheia-dele-pesaria-quase-uma-tonelada-960x640-2xl.png 1920w"></figure>
 <div class="content-visibility-auto">
 <div class="content-visibility-auto">
 <p>Entre os muitos materiais que compõem nosso planeta, há poucos que despertam tanta admiração quanto o ósmio. Esse elemento químico ostenta um título singular: é considerado o material natural mais denso existente na superfície terrestre. Na hierarquia dos elementos mais pesados, o ósmio supera metais amplamente conhecidos, como ouro, platina e urânio.</p>
@@ -692,7 +692,7 @@
 <div class="content-visibility-auto">
 <p>Nesse ranking de densidade, o ósmio figura numa disputa acirrada com o irídio. A diferença entre ambos é marginal, porém determinante o bastante para consolidar o ósmio na liderança absoluta entre todos os elementos naturais já catalogados pela ciência.</p>
 <p><strong>Elemento mais denso da Terra: conheça o ósmio</strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/46/Untitled-design-12-24-960x640.jpg" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/46/responsive/Untitled-design-12-24-960x640-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/46/Untitled-design-12-24-960x640.jpg" alt="" width="960" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/46/responsive/Untitled-design-12-24-960x640-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p>Com densidade de aproximadamente 22,59 gramas por centímetro cúbico, o ósmio concentra uma massa considerável em um volume extremamente reduzido. Em outras palavras: esse elemento empacota uma quantidade impressionante de matéria em pouco espaço.</p>
 </div>
@@ -797,8 +797,8 @@
         <author>
             <name>Visão Coruja</name>
         </author>
-        <link href="https://visaocoruja.github.io/pombos-com-cameras-como-aves-urbanas-se-tornaram-aliadas-da-ciencia.html"/>
-        <id>https://visaocoruja.github.io/pombos-com-cameras-como-aves-urbanas-se-tornaram-aliadas-da-ciencia.html</id>
+        <link href="https://visaocoruja.pages.dev/pombos-com-cameras-como-aves-urbanas-se-tornaram-aliadas-da-ciencia.html"/>
+        <id>https://visaocoruja.pages.dev/pombos-com-cameras-como-aves-urbanas-se-tornaram-aliadas-da-ciencia.html</id>
 
         <updated>2026-07-13T09:43:31-03:00</updated>
             <summary type="html">
@@ -816,7 +816,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>A pesquisa combina etologia animal com inovação tecnológica, usando criaturas urbanas comuns como verdadeiras parceiras de campo para avançar no entendimento sobre percepção visual em movimento.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/45/pombo-mochila02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-mochila02-1024x576-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/45/pombo-mochila02-1024x576.jpg" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-mochila02-1024x576-2xl.jpg 1920w"></figure>
 <div class="content-visibility-auto">
 <p><strong>O mito do olho imóvel: o que o voo dos pombos revela sobre visão em movimento</strong></p>
 </div>
@@ -837,7 +837,7 @@
 </ul>
 <p>A experiência envolveu um grupo de cerca de 16 pombos-correio. No entanto, apenas dois exemplares simultaneamente voavam com o aparato ativo. Os demais portavam mochilas isentas de funcionamento, servindo como grupo de controle.</p>
 <p>Durante os testes, as aves seguiram rotas previamente conhecidas enquanto o sistema capturava, em tempo real, os padrões de movimento ocular.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/45/pombo-camara-mochila-1-1024x1024.jpg" alt="" width="1024" height="1024" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-2xl.jpg 1920w">
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.pages.dev/media/posts/45/pombo-camara-mochila-1-1024x1024.jpg" alt="" width="1024" height="1024" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-xs.jpg 640w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-sm.jpg 768w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-md.jpg 1024w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-lg.jpg 1366w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-xl.jpg 1600w ,https://visaocoruja.pages.dev/media/posts/45/responsive/pombo-camara-mochila-1-1024x1024-2xl.jpg 1920w">
 <figcaption>Fonte: <em>Current Biology</em> (<a target="_blank" href="https://www.cell.com/current-biology/abstract/S0960-9822(26)00726-8" rel="noopener">2026</a>)</figcaption>
 </figure>
 <div class="content-visibility-auto">
@@ -851,7 +851,7 @@
 </div>
 <div class="content-visibility-auto">
 <p>Em comunicado oficial, os pesquisadores revelaram ainda que, na aproximação para aterrissagem, os pombos convergem os olhos para o centro. Essa conduta pode estar relacionada à estereopsia: a habilidade de determinar profundidade mediante a comparação das perspectivas oferecidas por cada olho. Até então, esse recurso de visão tridimensional era registrado apenas em certas espécies de aves de rapina, tornando a observação nos pombos uma contribuição inédita para o campo da neurociência visual aviária.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/45/drones_google_street_view01-1024x576.webp" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-xs.webp 640w ,https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-sm.webp 768w ,https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-md.webp 1024w ,https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/45/responsive/drones_google_street_view01-1024x576-2xl.webp 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.pages.dev/media/posts/45/drones_google_street_view01-1024x576.webp" alt="" width="1024" height="576" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-xs.webp 640w ,https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-sm.webp 768w ,https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-md.webp 1024w ,https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-lg.webp 1366w ,https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-xl.webp 1600w ,https://visaocoruja.pages.dev/media/posts/45/responsive/drones_google_street_view01-1024x576-2xl.webp 1920w"></figure>
 <h2>Porque é que isto nos interessa?</h2>
 <p>Na verdade, interessa à robótica. A maioria dos drones atuais utiliza câmaras fixas e rígidas, que captam apenas o movimento visual básico gerado pelo deslocamento do próprio aparelho, informação suficiente para calcular velocidade e direção, mas limitada quando comparada com o que um sistema biológico consegue fazer.</p>
 <p>Ao moverem ativamente os olhos, os pombos extraem informação extra do ambiente que os rodeia, algo que os sistemas robóticos atuais ainda não replicam.</p>
