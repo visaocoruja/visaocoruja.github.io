@@ -3,12 +3,107 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-07-20T13:17:14-03:00</updated>
+    <updated>2026-07-20T23:32:00-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
+    <entry>
+        <title>Baterias com &quot;voz&quot;: pesquisadores alemães desenvolvem célula autossuficiente</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/baterias-com-voz-pesquisadores-alemaes-desenvolvem-celula-autossuficiente.html"/>
+        <id>https://visaocoruja.github.io/baterias-com-voz-pesquisadores-alemaes-desenvolvem-celula-autossuficiente.html</id>
+
+        <updated>2026-07-20T23:29:24-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    KIEL, Alemanha – Pesquisadores da Universidade de Kiel, localizada no norte da Alemanha, apresentaram uma inovação capaz de transformar a forma como monitoramos o funcionamento de baterias. A equipe criou um sistema integrado que permite à própria bateria indicar falhas internas sem depender de conexões&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="content-visibility-auto">
+<p><strong>KIEL, Alemanha</strong> – Pesquisadores da Universidade de Kiel, localizada no norte da Alemanha, apresentaram uma inovação capaz de transformar a forma como monitoramos o funcionamento de baterias. A equipe criou um sistema integrado que permite à própria bateria indicar falhas internas sem depender de conexões externas ou cabos adicionais de transmissão de dados.</p>
+</div>
+<div class="content-visibility-auto">
+<p>De acordo com os desenvolvedores, essa solução pode simplificar significativamente os sistemas atuais de gerenciamento de baterias (BMS), reduzindo custos de produção e complexidade técnica. Além dos benefícios econômicos, a tecnologia também promete ampliar a segurança operacional a longo prazo, ao permitir detecção precoce de anomalias no interior das células.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O avanço elimina a necessidade de sensores externos tradicionais para identificar problemas como superaquecimento, degradação química ou curto-circuito interno, consolidando essas funções diretamente no componente energético.</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/68/segunda-vida-baterias-reaproveitamento1-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/68/responsive/segunda-vida-baterias-reaproveitamento1-720x405-2xl.jpg 1920w"></figure>
+<div class="content-visibility-auto">
+<h2>Bateria que se comunica pelos próprios terminais elétricos</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Ao falar em baterias que "falam", não se imagine alto-falantes embutidos em células de íons de lítio. Na prática, trata-se de transmissão de dados: sensores instalados no interior da bateria conseguem enviar informações para o ambiente externo sem necessidade de nenhum cabo adicional de comunicação.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Em vez de adicionar cabeamento dedicado aos sensores, o sistema aproveita os próprios terminais de carga e descarga da bateria, além da eletrônica que já controla esse processo, para "transportar" os dados junto com a energia.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O conceito foi apresentado por Hamzeh Beiranvand, pesquisador do Departamento de Eletrônica de Potência da Universidade de Kiel, na revista científica <em>Communications Engineering</em>.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>A limitação dos sensores externos</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Nas baterias atuais, presentes, por exemplo, em veículos elétricos e em sistemas de armazenamento estacionário, os sensores de temperatura costumam ficar posicionados apenas na parte externa de cada célula. O problema é que o calor perigoso tende a surgir primeiro no interior da célula, onde permanece despercebido por mais tempo.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Instalar sensores lá dentro sempre foi tecnicamente viável, mas exigia componentes eletrônicos e fiação adicional — um consumo de espaço que as baterias, por natureza compactas e densamente empacotadas, simplesmente não comportam.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/68/sistema-baterias-falar-universidade-kiel-1-720x540.jpg" alt="" width="720" height="540" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-baterias-falar-universidade-kiel-1-720x540-2xl.jpg 1920w">
+<figcaption>A placa de circuito verde contém o circuito eletrónico desenvolvido pelos investigadores para transmitir dados do sensor através dos terminais de alimentação existentes numa célula de bateria, mostrada ao fundo. Crédito: Christina Anders, Uni Kiel (<a target="_blank" href="https://www.uni-kiel.de/en/details/news/sprechende-batterien-kieler-forschende-entwickeln-neues-kommunikationssystem" rel="noopener">2026</a>)</figcaption>
+</figure>
+<div class="content-visibility-auto">
+<h2>Como funciona a solução de Kiel</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Pesquisadores da Universidade de Kiel integraram um pequeno circuito eletrônico diretamente dentro da própria célula da bateria. O dispositivo ocupa espaço mínimo e converte a leitura do sensor de temperatura em sinal digital, transmitindo os dados pelos mesmos terminais utilizados para carga e descarga. Não há necessidade de cabeamento de comunicação adicional.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Tecnicamente, o método utiliza uma técnica denominada <em>load shift keying</em> (LSK), que aproveita o ruído de alta frequência já gerado pelo conversor de potência da bateria para transportar o sinal digital do sensor, eliminando a necessidade de eletrônica de comunicação dedicada.</p>
+</div>
+<div class="content-visibility-auto">
+<blockquote>
+<p>"Nosso trabalho representa um primeiro passo rumo a baterias inteligentes capazes de monitorizar e reportar continuamente seu próprio estado", afirmou Beiranvand, em comunicado oficial.</p>
+</blockquote>
+</div>
+<div class="content-visibility-auto">
+<p>O pesquisador explicou que a abordagem pode tornar os sistemas de baterias simultaneamente mais seguros e mais econômicos, pois a solução reaproveita componentes já existentes em vez de incorporar novos elementos.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Além disso, segundo estimativa preliminar da equipe, o sistema pode reduzir custos em aproximadamente 35% quando comparado às soluções convencionais, que dependem de cabeamento separado para sensores.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/68/sistema-bateria-universidade-kiel-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/68/responsive/sistema-bateria-universidade-kiel-720x405-2xl.jpg 1920w">
+<figcaption>Hamzeh Beiranvand (à esquerda) segura a célula da bateria enquanto Johannes Diers (à direita) apresenta o circuito eletrônico desenvolvido sob medida. Os dois pesquisadores mostram juntos o protótipo da "bateria comunicativa". Ao fundo, observam-se equipamentos essenciais para os testes: um testeador de baterias (à direita) e uma câmara climática (à esquerda), utilizados pela equipe para caracterizar as células e conduzir as verificações do estudo. Crédito: Christina Anders, Uni Kiel (<a target="_blank" href="https://www.uni-kiel.de/en/details/news/sprechende-batterien-kieler-forschende-entwickeln-neues-kommunikationssystem" rel="noopener">2026</a>)</figcaption>
+</figure>
+<div class="content-visibility-auto">
+<h2>Sistema se estende além da temperatura</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Segundo Johannes Diers, pesquisador de doutorado no mesmo departamento e primeiro autor do estudo, o princípio não se restringe a sensores de temperatura. No futuro, sensores de pressão, de gases ou de outros tipos poderão transmitir informações de dentro da bateria exatamente da mesma forma.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Os pesquisadores acreditam ainda que o circuito eletrônico pode vir a ser ainda mais reduzido, ou até integrado diretamente a novos materiais de bateria, o que contribuiria para aperfeiçoar as baterias de próxima geração.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Por enquanto, trata-se de um conceito validado em pesquisa, não de um produto pronto para integrar veículos elétricos. Mesmo assim, a ideia de aproveitar os terminais já existentes para "duplicar funções" pode abrir caminho para baterias mais inteligentes, capazes de reportar seu próprio estado de saúde em tempo real.</p>
+<p> </p>
+<div class="content-visibility-auto">
+<p>O Visão Coruja manterá acompanhamento ativo dos desenvolvimentos nesta área de tecnologia energética e suas implicações estratégicas para indústrias, empresas e consumidores.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Siga nossas análises regulares sobre inovações em armazenamento, soluções defensivas e movimentos relevantes no cenário global de energia e baterias.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RCS chega para modernizar as mensagens: conheça o protocolo que supera o SMS</title>
         <author>
@@ -1066,69 +1161,6 @@
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hashcat: por que senhas fracas continuam a ser vulnerabilidade crítica</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html"/>
-        <id>https://visaocoruja.github.io/hashcat-por-que-senhas-fracas-continuam-a-ser-vulnerabilidade-critica.html</id>
-
-        <updated>2026-07-15T22:30:11-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Senhas seguem como principal barreira de proteção para milhões de usuários e organizações em todo o mundo. Quando pouco robustas ou previsíveis, contudo, podem ser descobertas em questão de segundos — evidenciando risco permanente à segurança digital. Uma das ferramentas mais conhecidas para demonstrar esta&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Senhas seguem como principal barreira de proteção para milhões de usuários e organizações em todo o mundo. Quando pouco robustas ou previsíveis, contudo, podem ser descobertas em questão de segundos — evidenciando risco permanente à segurança digital.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/54/hashcat_00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat_00-720x405-2xl.jpg 1920w"></figure>
-<p>Uma das ferramentas mais conhecidas para demonstrar esta realidade é o Hashcat, uma solução de recuperação de palavras-passe amplamente utilizada por investigadores de segurança, equipas de pentesting e analistas forenses.</p>
-<h3>O que é o Hashcat?</h3>
-<p>O Hashcat é um software open source especializado na recuperação de palavras-passe a partir de hashes. Em vez de tentar "desencriptar" um hash, algo matematicamente impossível nas funções de hash modernas, a ferramenta gera milhares ou milhões de palavras-passe candidatas, calcula o respetivo hash e compara o resultado com o hash original. Quando existe correspondência, a palavra-passe foi encontrada.</p>
-<p>Graças ao suporte para GPUs NVIDIA, AMD e Intel, bem como CPUs, o Hashcat consegue atingir velocidades impressionantes, tornando-se uma das ferramentas mais rápidas do mercado para este tipo de tarefa.</p>
-<p><strong>Como funciona?</strong></p>
-<p>O Hashcat suporta centenas de algoritmos de hash, incluindo:</p>
-<ul>
-<li>MD5</li>
-<li>SHA-1</li>
-<li>SHA-256</li>
-<li>SHA-512</li>
-<li>NTLM (Windows)</li>
-<li>bcrypt scrypt</li>
-<li>PBKDF2</li>
-<li>WPA/WPA2</li>
-<li>Entre muitos outros.</li>
-</ul>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/54/hashcat-legacy.png" alt="" width="720" height="524" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-xs.png 640w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-sm.png 768w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-md.png 1024w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-lg.png 1366w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-xl.png 1600w ,https://visaocoruja.github.io/media/posts/54/responsive/hashcat-legacy-2xl.png 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>Métodos de quebra de senhas e aplicações profissionais do Hashcat</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Na identificação de credenciais, o software emprega diversas estratégias, incluindo ataques por dicionário, força bruta, máscara, regras de transformação de palavras e abordagens híbridas que combinam múltiplas técnicas. Embora frequentemente associado a atividades maliciosas, o Hashcat é uma ferramenta legítima, utilizada rotineiramente por especialistas em cibersegurança. Como ocorre com qualquer recurso de grande poder técnico, no entanto, também pode ser apropriado por criminosos cibernéticos que tenham acesso a bases de dados contendo hashes roubados.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A existência de soluções como o Hashcat não implica que as senhas, como mecanismo de segurança, estejam obsoletas. O que demonstra é que credenciais fracas ou reutilizadas expõem os usuários a riscos consideravelmente maiores.</p>
-</div>
-<div class="content-visibility-auto">
-<p>As recomendações de boas práticas seguem válidas: adotar senhas extensas e exclusivas para cada serviço; utilizar gerenciadores dedicados; habilitar autenticação multifator (MFA); evitar termos constantes em dicionários ou padrões previsíveis; e, por parte dos provedores de serviço, empregar algoritmos modernos de armazenamento de credenciais, como bcrypt, Argon2 ou PBKDF2.</p>
-<div class="content-visibility-auto">
-<p><span style="font-size: inherit;">Em última análise, ferramentas como o Hashcat não sinalizam o fim das senhas, mas sim a urgência de elevação dos padrões de segurança — tanto individuais quanto institucionais — num ambiente digital em que ameaças evoluem com rapidez crescente. A defesa eficaz começa, cada vez mais, na conscientização de que a simplicidade pode ser a porta de entrada para a vulnerabilidade.</span></p>
-</div>
-<div class="content-visibility-auto">
-<p> </p>
-<div class="content-visibility-auto">
-<p>O Visão Coruja manterá vigilância ativa sobre os desenvolvimentos nesta área de segurança de credenciais e suas implicações estratégicas para organizações e indivíduos.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Acompanhe nossas análises regulares sobre ferramentas de auditoria de senhas, técnicas de proteção de credenciais e movimentações relevantes no cenário internacional de cibersegurança.</p>
 </div>
 </div>
 </div>
