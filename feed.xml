@@ -3,12 +3,143 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-08-08T09:57:18-03:00</updated>
+    <updated>2026-08-08T10:55:42-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
+    <entry>
+        <title>O fim do uBlock Origin no Edge: um sinal de alerta para quem valoriza privacidade</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/o-fim-do-ublock-origin-no-edge-um-sinal-de-alerta-para-quem-valoriza-privacidade.html"/>
+        <id>https://visaocoruja.github.io/o-fim-do-ublock-origin-no-edge-um-sinal-de-alerta-para-quem-valoriza-privacidade.html</id>
+
+        <updated>2026-08-08T10:28:54-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A decisão da Microsoft de acompanhar o Google na eliminação completa do suporte a extensões Manifest V2 (MV2) no Edge não é apenas mais uma atualização técnica — é um passo decisivo que coloca usuários comuns na posição de reféns das prioridades comerciais das big&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/80/OIP-3650783876-3.jpg" alt="" width="474" height="248" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/80/responsive/OIP-3650783876-3-2xl.jpg 1920w"></figure>
+<div class="content-visibility-auto"> </div>
+<div class="content-visibility-auto">
+<div class="content-visibility-auto">
+<p>A decisão da Microsoft de acompanhar o Google na eliminação completa do suporte a extensões Manifest V2 (MV2) no Edge não é apenas mais uma atualização técnica — é um passo decisivo que coloca usuários comuns na posição de reféns das prioridades comerciais das big techs. Após o Chrome, agora o Edge também abandona o padrão que permitiu por anos ferramentas essenciais de proteção à privacidade, como o <strong>uBlock Origin</strong>.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>Por que isso importa?</h2>
+</div>
+<div class="content-visibility-auto">
+<p>O uBlock Origin não é "apenas mais um bloqueador de anúncios". É amplamente considerado o <strong>padrão-ouro</strong> em eficiência e transparência entre as ferramentas de privacidade digital. Seus números falam por si:</p>
+</div>
+<div class="content-visibility-auto">
+<div class="markdown-table-wrapper">
+<table>
+<thead>
+<tr>
+<th>Indicador</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Instalações no Chrome Web Store</td>
+<td>Milhões antes da limitação MV3</td>
+</tr>
+<tr>
+<td>Código-fonte</td>
+<td>100% aberto e auditável</td>
+</tr>
+<tr>
+<td>Uso de memória</td>
+<td>Significativamente menor que o de concorrentes</td>
+</tr>
+<tr>
+<td>Eficácia de bloqueio</td>
+<td>Amplamente reconhecida pela comunidade técnica</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>A migração forçada para o Manifest V3 compromete diretamente essa eficácia. Novas limitações técnicas impedem que extensões monitorem e filtrem requisições de rede com o mesmo nível de granularidade. O resultado prático? Menos anúncios bloqueados, menos rastreadores neutralizados, menos controle nas mãos do usuário final.</p>
+<h2>A ilusão da 'segurança e agilidade'</h2>
+<p>Google e Microsoft defendem o MV3 como mais seguro e performático. Na prática, essas justificativas mascaram interesses comerciais claros:</p>
+<ul>
+<li><strong>Anúncios são o negócio principal</strong> de ambas as empresas. Qualquer tecnologia que reduza a receita publicitária sofre resistência direta ou indireta.</li>
+<li><strong>Ecossistema fechado:</strong> navegadores Chromium formam um oligopólio tecnológico. Decisões tomadas unilateralmente pelo Google afetam Edge, Brave, Opera, Vivaldi e dezenas de outros derivados.</li>
+<li><strong>Concentração de poder:</strong> com mais de 95% do mercado de navegadores rodando no motor Chromium, a web moderna opera sob regras definidas por duas empresas. Isso fragiliza a própria natureza descentralizada da internet.</li>
+</ul>
+<h2>Firefox e forks: a única alternativa viável</h2>
+<p>Enquanto gigantes tecnológicas apertam o cerco sobre ferramentas de privacidade, o <strong>Firefox </strong>permanece como <strong>a única opção significativa</strong> que mantém suporte contínuo às extensões MV2. Derivados como <strong>LibreWolf</strong>, <strong>Mullvad Browser</strong>, <strong>FireDragon</strong>, <strong>Floorp</strong> etc. levam essa filosofia adiante com camadas extras de privacidade e personalização. Todos são totalmente compatíveis com o uBlock Origin e outras extensões MV2/MV3 sem restrições.</p>
+<p>No Android, a oferta é igualmente robusta: <strong>IronFox</strong>, <strong>WebLibre</strong>, <strong>Fennec</strong>, <strong>Iceraven</strong> etc. trazem a mesma liberdade de extensões para dispositivos móveis, permitindo que usuários mantenham o uBlock Origin funcionando com eficácia máxima também no celular.</p>
+<h3>Vantagens reais da migração</h3>
+<p><strong>1. Controle total sobre sua navegação</strong></p>
+<p>Extensões como o uBlock Origin funcionam sem limitações artificiais. Você decide o que carrega, o que é bloqueado e como seus dados fluem.</p>
+<p><strong>2. Independência de big tech</strong></p>
+<p>O Firefox utiliza o motor Gecko, desenvolvido pela Mozilla Foundation — organização sem fins lucrativos com mandato claro de defender uma internet aberta e privada. Não há conflito de interesse com publicidade programática.</p>
+<p><strong>3. Comunidade ativa e transparente</strong></p>
+<p>Código aberto, auditorias constantes, atualizações frequentes. A segurança não depende de confiança cega, mas de verificação independente.</p>
+<p><strong>4. Ecossistema de extensões maduro</strong></p>
+<p>Além do uBlock Origin, milhares de outras ferramentas funcionam sem restrições. Gerenciadores de senhas, leitores de RSS, personalização de interfaces — tudo livre do crivo comercial de corporações.</p>
+<p><strong>5. Popularidade e confiança do uBlock Origin</strong></p>
+<p>Com milhões de instalações históricas e reconhecimento quase universal na comunidade de segurança digital, o uBlock Origin representa o que há de mais confiável em bloqueio de conteúdo. Sua reputação foi construída ao longo de anos de transparência, código auditável e compromisso inequívoco com a privacidade do usuário.</p>
+<h2>O momento é agora</h2>
+<p>A cronologia é clara:</p>
+<div class="markdown-table-wrapper">
+<table>
+<thead>
+<tr>
+<th>Navegador</th>
+<th>Status do suporte MV2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chrome</td>
+<td>Encerrado em 2024</td>
+</tr>
+<tr>
+<td>Edge</td>
+<td>Transição iniciando em agosto de 2026, conclusão no fim de 2026</td>
+</tr>
+<tr>
+<td>Firefox</td>
+<td>Suporte mantido indefinidamente</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Para usuários que dependem do uBlock Origin para uma navegação diária segura, esperar até 2026 é arriscado. A migração antecipada para o Firefox ou seus forks não é apenas precaução — é uma afirmação de princípios.</p>
+<h2>Conclusão: privacidade não deve ser pedido de caridade</h2>
+<p>Aceitar limitações impostas por empresas cujo modelo de negócios depende da coleta e monetização de dados pessoais é abrir mão de uma liberdade digital fundamental. O Firefox e suas variantes oferecem algo que Chrome e Edge nunca poderão: a garantia de que você mantém o controle sobre sua própria experiência de navegação.</p>
+<p>O fim do suporte ao MV2 no Edge não é acidente técnico. É uma escolha estratégica. Cabe aos usuários decidir se aceitam passivamente essa realidade ou buscam alternativas que respeitem suas prioridades — privacidade, autonomia e transparência.</p>
+<p>A pergunta que fica não é se você deve migrar. É quando você percebe que a janela de oportunidade está se fechando. Para conhecer ou instalar o uBlock Origin de forma segura, utilize apenas os canais oficiais:</p>
+<ul>
+<li><strong>Site:</strong> <a href="https://ublockorigin.com">ublockorigin.com</a></li>
+<li><strong>Repositório GitHub (desenvolvedor Raymond Hill):</strong> <a href="https://github.com/gorhill/uBlock">github.com/gorhill/uBlock</a></li>
+<li><strong>Firefox Add-ons:</strong> <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">addons.mozilla.org/firefox/addon/ublock-origin</a></li>
+</ul>
+<p>Evite domínios não verificados. O GitHub acima é o repositório indiscutível do projeto, mantido diretamente por Raymond Hill (@gorhill).</p>
+<p> </p>
+<div class="content-visibility-auto">
+<p>O Visão Coruja manterá vigilância ativa enquanto as grandes empresas de tecnologia consolidam o monopólio sobre a experiência de navegação e eliminam ferramentas essenciais de proteção à privacidade.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Acompanhe nossas investigações sobre como Google, Microsoft e outras big techs restringem deliberadamente o controle dos usuários finais sob o disfarce de "atualizações técnicas" e "segurança aprimorada". A resistência ao Manifest V3 não é obsoleto — é uma luta legítima pela soberania digital.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Nossa cobertura seguirá denunciando cada movimento que ameace a autonomia de milhões de pessoas na web. Quando as corporações decidem o que você pode ou não fazer com seu próprio navegador, a resposta deve ser clara: migração imediata para alternativas que não negociem sua privacidade por lucro publicitário.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A jornada da autoaceitação</title>
         <author>
@@ -1013,113 +1144,6 @@
 </div>
 <div class="content-visibility-auto">
 <p>Acompanhe nossas análises regulares sobre novos projetos de conectividade transatlântica, desafios técnicos de instalação e movimentações relevantes no cenário internacional de comunicações físicas.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pneus sem câmara de ar já circulam no Japão, mas há um grande obstáculo</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/pneus-sem-camara-de-ar-ja-circulam-no-japao-mas-ha-um-grande-obstaculo.html"/>
-        <id>https://visaocoruja.github.io/pneus-sem-camara-de-ar-ja-circulam-no-japao-mas-ha-um-grande-obstaculo.html</id>
-
-        <updated>2026-07-21T10:47:19-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Após quase duas décadas de desenvolvimento, os pneus não pressurizados AirFree da Bridgestone deixaram os laboratórios e começaram a circular efetivamente nas vias públicas do Japão, equipando uma pequena frota de veículos autônomos. Apesar dos sinais positivos, existe uma ressalva significativa. A concepção de um&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Após quase duas décadas de desenvolvimento, os pneus não pressurizados AirFree da Bridgestone deixaram os laboratórios e começaram a circular efetivamente nas vias públicas do Japão, equipando uma pequena frota de veículos autônomos. Apesar dos sinais positivos, existe uma ressalva significativa.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone00-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<p>A concepção de um pneu incapaz de furar e que dispensa calibração não constitui exatamente uma novidade para a Bridgestone. Desde o primeiro protótipo, que remonta a 2008, a fabricante japonesa vem aperfeiçoando o projeto até alcançar a atual terceira geração, revelada em 2023.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A tecnologia elimina integralmente a câmara de ar. Em seu lugar, o peso do veículo é sustentado por uma estrutura composta por raios fabricados em resina termoplástica flexível, recobertos por uma delgada camada de borracha responsável pelo contato direto com o pavimento.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone06-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone06-720x405-2xl.jpg 1920w">
-<figcaption>1.ª geração do AirFree (2008-2012)</figcaption>
-</figure>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone05-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone05-720x405-2xl.jpg 1920w">
-<figcaption>2.ª geração do AirFree (2013-2022)</figcaption>
-</figure>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone04-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone04-720x405-2xl.jpg 1920w">
-<figcaption>3.ª geração do AirFree (2023-)</figcaption>
-</figure>
-<div class="content-visibility-auto">
-<p><strong>Avanço técnico e primeiros testes práticos no Japão</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>De acordo com Masaki Ota, engenheiro da Bridgestone, o progresso decisivo não resultou de tornar o material mais rígido, mas sim de optar por uma resina flexível combinada com um design que distribui as cargas de maneira mais uniforme pela estrutura do pneu.</p>
-</div>
-<div class="content-visibility-auto">
-<p><strong>Primeira implantação comercial em veículos autônomos</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>O AirFree passou a operar regularmente na cidade japonesa de Higashiomi, localizada na província de Shiga, onde integra uma modesta frota de veículos elétricos autônomos.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A função desses veículos, que lembram carrinhos de golfe, consiste em transportar moradores idosos em região montanhosa onde faltam motoristas para serviços de transporte tradicionais.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone-japao01-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone-japao01-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>Pioneirismo em mobilidade cotidiana</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>É a primeira vez que os pneus <a href="https://www.bridgestone.com/technology_innovation/air_free/">AirFree </a>deixam de ficar restritos a apresentações passageiras para se incorporarem ao cotidiano de um serviço de transporte.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A coloração adotada para os pneus, intitulada "Empowering Blue", foi concebida para potencializar a percepção visual dos veículos.</p>
-</div>
-<div class="content-visibility-auto">
-<p><strong>O grande obstáculo</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Embora o progresso seja evidente, os AirFree encontram-se, por enquanto, bastante distantes de supplantar os pneus tradicionais em automóveis convencionais.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Durante os testes mostrados à imprensa, os veículos equipados com tal tecnologia permaneceram restringidos a 20 km/h, e a Bridgestone não deixou claro se esse patamar representa uma limitação técnica efetiva da engenharia ou meramente uma decisão de segurança para o evento demonstrativo.</p>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/69/airfree-bridgestone08-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/airfree-bridgestone08-720x405-2xl.jpg 1920w">
-<figcaption>A Bridgestone utiliza aprendizado de máquina, com base em inteligência artificial, para aprimorar a forma e o desempenho do pneu AirFree.</figcaption>
-</figure>
-<p>De qualquer forma, para já, este tipo de pneu só é adequado <strong>apenas a veículos de baixa velocidade e a operar em contextos controlados</strong>, como frotas de mobilidade local.</p>
-<p>A Bridgestone também não avançou qualquer data para uma eventual produção em massa, estando ainda a ponderar um modelo de negócio que poderá passar por <strong>associar os pneus a serviços adicionais</strong>, como a reciclagem.</p>
-<p>Ainda que limitado a baixas velocidades, o lançamento do AirFree no Japão marca uma <strong>mudança de fase</strong>, com a tecnologia a deixar de ser apenas um conceito para começar a resolver problemas reais.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/69/michelin_pneus_sem_ar_uptis00-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/michelin_pneus_sem_ar_uptis00-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>Michelin também disputa o mercado de pneus sem ar</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>A Bridgestone não é a única fabricante a investir em pneus que prescindem de câmara de ar.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Há mais de uma década, a <a href="https://www.michelin.pt/michelin-uptis-prototipo">Michelin </a>desenvolve um conceito chamado Uptis (Unique Puncture-proof Tire System), cujo objetivo é eliminar totalmente o ar pressurizado, utilizando uma estrutura de resina reforçada com fibra de vidro capaz de sustentar o peso do veículo pela parte superior da roda.</p>
-</div>
-<div class="content-visibility-auto">
-<p>O projeto surgiu em parceria com a General Motors e já foi testado no Chevrolet Bolt EV e em um Mini Electric exibido publicamente em 2021.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/69/UptisPrototype_1-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/69/responsive/UptisPrototype_1-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>Michelin também avança em pneus sem pressão</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Recentemente, a Michelin expandiu seus testes para frotas comerciais reais, incluindo vans da DHL Express em Singapura e do serviço postal francês La Poste, acumulando aproximadamente três milhões de quilômetros rodados por protótipos <a href="https://www.michelin.com/en/group/activities/tires/vision-concept#:~:text=Since%202020%2C%20these%20UPTIS%20prototypes%20have%20already%20covered%20almost%203%20million%20kilometers.">desde 2020</a>.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Mesmo assim, o Uptis tem enfrentado mais atrasos que o AirFree. O lançamento comercial, inicialmente previsto para 2024, foi postergado, com a Michelin reconhecendo a necessidade de prolongar os testes, inclusive em diálogo com a Tesla para validar a tecnologia em veículos elétricos premium.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Diferentemente do pneu AirFree, que já circula em serviço público regular no Japão, o Uptis permanece restrito a frotas profissionais e trajetos curtos, sem data definida para atingir o consumidor comum.</p>
-<div>
-<p> </p>
-<p>O Visão Coruja manterá acompanhamento contínuo sobre os avanços na área de pneus sem ar e suas implicações estratégicas para a indústria automobilística e a mobilidade urbana.</p>
-<p>Acompanhe nossas análises regulares sobre inovações tecnológicas, validação em condições de uso e movimentações relevantes no cenário internacional de mobilidade sustentável.</p>
 </div>
 </div>
 </div>
