@@ -3,12 +3,103 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-08-08T19:03:59-03:00</updated>
+    <updated>2026-08-09T10:44:38-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
+    <entry>
+        <title>QMPlay2: o player multiplataforma que você precisa conhecer</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/qmplay2-o-player-multiplataforma-que-voce-precisa-conhecer.html"/>
+        <id>https://visaocoruja.github.io/qmplay2-o-player-multiplataforma-que-voce-precisa-conhecer.html</id>
+
+        <updated>2026-08-09T10:29:39-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Se você busca uma solução completa, elegante e incrivelmente versátil para sua experiência multimídia, o QMPlay2 se destaca como uma verdadeira joia no mundo dos reprodutores de áudio e vídeo. Mais do que um simples player, é uma ferramenta poderosa que une simplicidade e recursos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/84/QMPlay2.png" alt="" width="2804" height="1549" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-xs.png 640w ,https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-sm.png 768w ,https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-md.png 1024w ,https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-lg.png 1366w ,https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-xl.png 1600w ,https://visaocoruja.github.io/media/posts/84/responsive/QMPlay2-2xl.png 1920w"></figure>
+<div class="content-visibility-auto">
+<div class="content-visibility-auto">
+<p>Se você busca uma solução completa, elegante e incrivelmente versátil para sua experiência multimídia, o <strong>QMPlay2</strong> se destaca como uma verdadeira joia no mundo dos reprodutores de áudio e vídeo. Mais do que um simples player, é uma ferramenta poderosa que une simplicidade e recursos avançados em uma única interface intuitiva, construída com o framework <strong>Qt</strong> e disponível gratuitamente para <strong>GNU/Linux, macOS e Windows</strong>.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>🎬 Compatibilidade impressionante de formatos e codecs</h2>
+</div>
+<div class="content-visibility-auto">
+<p>A maior força do QMPlay2 reside na sua <strong>compatibilidade abrangente</strong>. O programa suporta a maioria dos codecs usados pelo <strong>FFmpeg</strong>, o que significa praticamente qualquer formato de áudio ou vídeo que você encontrar. Com suporte também ao <strong>libmodplug</strong>, conseguimos reproduzir até mesmo formatos de nicho como <strong>J2B, SFX e Chiptunes</strong>. Seja um CD de áudio físico, um arquivo de mídia moderno ou um streaming remoto, o QMPlay2 lida com tudo de forma fluida e confiável.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>📡 Streaming com múltiplos protocolos de rede</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Um diferencial técnico importante: o QMPlay2 permite executar streaming de áudio e vídeo utilizando diferentes protocolos de rede, incluindo <strong>HTTP, HTTPS, RTSP, RTMP e MMS</strong>. Isso significa que você não fica limitado a uma única fonte de conteúdo online — o player abre portas para uma variedade enorme de estações, transmissões ao vivo e arquivos hospedados remotamente.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>🌍 Uma curadoria de rádios internacionais de verdade</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Talvez um dos destaques mais surpreendentes do QMPlay2 seja sua <strong>coletânea impressionante de estações de rádio de todo o mundo</strong>. Não se trata apenas de algumas poucas opções genéricas — o player já vem com uma seleção cuidadosa de rádios de <strong>muitos países diferentes</strong>, permitindo que você viaje pelas ondas do rádio sem sair da sua mesa.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Imagine acessar estações do <strong>Japão, Alemanha, Brasil, Reino Unido, França, Estados Unidos, Espanha, Itália</strong> e dezenas de outros destinos, tudo em um só lugar. Cada país traz sua identidade sonora única: os jingles característicos, as programações locais, as músicas que definem culturas inteiras. É como ter um passaporte auditivo que lhe permite descobrir novos sons, acompanhar notícias de outras terras ou simplesmente manter viva a conexão com lugares que você ama.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Essa curadoria internacional transforma o QMPlay2 em muito mais que um player: é uma <strong>janela sonora para o mundo</strong>. Seja para aprender idiomas ouvindo rádios nativas, descobrir artistas desconhecidos além-fronteiras ou simplesmente curtir programação local de diferentes regiões, o acesso a tantas rádios de tantos países eleva o QMPlay2 a um patamar de ferramentas verdadeiramente globais. E, se alguma estação não estiver presente, você pode <strong>adicionar quantas estações quiser à sua lista pessoal</strong>, personalizando sua experiência radiofônica às suas preferências únicas.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>🔗 Experiência online totalmente integrada</h2>
+</div>
+<div class="content-visibility-auto">
+<p>O que realmente impressiona é como o QMPlay2 traz o universo online para dentro dele mesmo. Com seu <strong>navegador integrado do YouTube</strong>, você pode assistir e, graças à integração com o <strong>youtube-dl</strong>, baixar a maioria dos vídeos diretamente do player, eliminando a necessidade de abrir abas no browser. As estações de rádio de internet embutidas oferecem horas de entretenimento sonoro global com apenas alguns cliques.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>🎛️ Controles de áudio e vídeo de nível profissional</h2>
+</div>
+<div class="content-visibility-auto">
+<p>Cada detalhe foi pensado para atender ao usuário exigente. Na configuração de saída de vídeo, é possível escolher entre <strong>OpenGL 2, XVideo e QPainter</strong>. Já na saída de áudio, há suporte a <strong>PulseAudio e ALSA</strong>, garantindo flexibilidade em diferentes ambientes Linux.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Os ajustes de vídeo são dignos de um editor: controle de <strong>brilho, contraste, saturação, matiz e nitidez</strong> podem ser ajustados livremente. Além disso, é possível aplicar efeitos de imagem como o <strong>borrão de movimento (motion blur)</strong>, girar vídeos para qualquer orientação e capturar <strong>screenshots</strong> dos momentos exatos que você desejar.</p>
+</div>
+<div class="content-visibility-auto">
+<h2>⭐ Recursos extras que fazem a diferença</h2>
+</div>
+<div class="content-visibility-auto">
+<ul>
+<li><strong>Equalizador gráfico e osciloscópio</strong> – Para quem aprecia precisão e quer visualizar a dinâmica sonora em tempo real</li>
+<li><strong>Reprodução em diferentes velocidades</strong> – Controle total sobre o ritmo, ideal para análises, estudos ou pura curiosidade</li>
+<li><strong>Legendas com formato personalizado</strong> – Flexibilidade para ajustar tipografia, cores e posicionamento ao seu gosto</li>
+<li><strong>Suporte completo a listas de reprodução (playlists)</strong> – Organize sua coleção de mídia sem complicações</li>
+<li><strong>OSD (On-Screen Display)</strong> – Informações na tela durante a reprodução, sem interferir na experiência visual</li>
+<li><strong>Visão esférica de vídeos 360º do YouTube</strong> – Aplicando um filtro dedicado (cujas instruções estão disponíveis no GitHub do projeto), você mergulha em experiências imersivas diretamente da sua mesa</li>
+</ul>
+<h2>🪶 Leveza sem abrir mão de recursos</h2>
+<p>É precisamente aqui que o QMPlay2 brilha de forma única: ele é <strong>leve o suficiente</strong> para não sobrecarregar seu sistema, mas <strong>robusto o suficiente</strong> para substituir múltiplas aplicações distintas. Não é necessário instalar um player para áudio, outro para vídeo, um terceiro para rádio online e um quarto para baixar conteúdo do YouTube — o QMPlay2 faz tudo isso em um único pacote coerente e bem desenhado.</p>
+<h2>💡 Uma escolha inteligente para qualquer usuário</h2>
+<p>Para entusiastas de mídia que valorizam qualidade sonora e visual, profissionais que precisam de versatilidade técnica em múltiplos protocolos, ou simplesmente usuários que buscam uma ferramenta confiável e poderosa, o QMPlay2 entrega uma combinação rara de <strong>simplicidade, poder e elegância</strong>. É um reprodutor que realmente entende o que significa proporcionar uma experiência multimídia completa — desde os formatos de áudio mais obscuros até os streams mais modernos, passando por rádios de dezenas de países, tudo em uma interface limpa e customizável.</p>
+<h2>🏆 Um projeto que já deveria ser amplamente conhecido</h2>
+<p>Chegamos inevitavelmente a uma conclusão: <strong>o QMPlay2 é, sem dúvida, o melhor player de mídia da atualidade</strong>. Sua maturidade técnica, combinada com a versatilidade de recursos, coloca-o em um patamar acima da maioria das alternativas disponíveis hoje. Não é à toa que ele está <strong>consolidado há muitos anos</strong> como um projeto sólido, mantido ativamente e continuamente aprimorado por sua comunidade.</p>
+<p>A longevidade do QMPlay2 como desenvolvimento contínuo é testemunho de sua confiabilidade. Enquanto soluções concorrentes desaparecem, abandonam atualizações ou tornam-se pesadas e carregadas de bloatware, o QMPlay2 permanece fiel aos seus princípios: leve, eficiente e completo. Essa consistência ao longo do tempo é rara no cenário de software atual e merece ser celebrada.</p>
+<p>Mais do que isso, o QMPlay2 é <strong>altamente promissor</strong> para o futuro da reprodução multimídia open source. Seu modelo de desenvolvimento ativo, seu compromisso com compatibilidade universal e sua filosofia de não sacrificar funcionalidade por simplicidade mostram um caminho viável para onde os players de mídia deveriam estar indo. Infelizmente, ainda não recebe o reconhecimento que deveria — enquanto players menos capazes dominam os holofotes, o QMPlay2 continua sendo uma excelente escolha silenciosa para quem realmente entende de tecnologia multimídia.</p>
+<p>Que esse texto sirva como um pequeno gesto de justiça: <strong>QMPlay2 merece mais reconhecimento</strong>. Merece estar entre os nomes citados quando se fala em excelência em players de mídia. Merece ser descoberto por milhares de usuários que até hoje dependem de soluções inferiores sem saber que algo tão superior existe.</p>
+<h2>🚀 Comece a usar agora</h2>
+<p>Pronto para experimentar? Você pode baixar o QMPlay2 diretamente da página oficial no GitHub, onde encontram-se todas as versões atualizadas e releases estáveis:</p>
+<p>📥 <strong><a href="https://github.com/zaps166/QMPlay2">Baixar QMPlay2</a></strong></p>
+<p>Uma grande vantagem adicional para quem prefere flexibilidade: o QMPlay2 também oferece uma <strong>versão portátil</strong>, que não exige instalação no seu sistema. Basta extrair os arquivos e executar — ideal para levar consigo em drives USB, testar rapidamente sem comprometer seu sistema ou usar em múltiplos computadores sem configurações adicionais.</p>
+<p>Não é apenas um player. É uma <strong>estação multimídia completa</strong> ao alcance das suas mãos. 🎶</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Como o IBM 1401 resgatou o plástico-bolha</title>
         <author>
@@ -1011,82 +1102,6 @@
 </div>
 <div class="content-visibility-auto">
 <p>Acompanhe nossas análises regulares sobre eventos cósmicos, estratégias de proteção planetária e descobertas que moldam o cenário internacional da astronomia moderna.</p>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Modo de avião acelera o carregamento da bateria? Testes recentes mostram a realidade</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/modo-de-aviao-acelera-o-carregamento-da-bateria-testes-recentes-mostram-a-realidade.html"/>
-        <id>https://visaocoruja.github.io/modo-de-aviao-acelera-o-carregamento-da-bateria-testes-recentes-mostram-a-realidade.html</id>
-
-        <updated>2026-07-27T18:06:35-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    A velocidade de carregamento dos celulares segue como uma das principais preocupações dos usuários. Para economizar alguns minutos na tomada, consolidou-se ao longo dos anos a prática de ativar o modo avião durante a recarga do dispositivo. A lógica por trás dessa estratégia parecia evidente:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="content-visibility-auto">
-<p>A velocidade de carregamento dos celulares segue como uma das principais preocupações dos usuários. Para economizar alguns minutos na tomada, consolidou-se ao longo dos anos a prática de ativar o modo avião durante a recarga do dispositivo.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A lógica por trás dessa estratégia parecia evidente: ao reduzir o consumo de energia, a bateria acumularia carga com maior rapidez. Porém, novos testes desvendam o quanto essa crença se sustenta na prática.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/73/phone-charging-iphone-s26-lanxon-1_5771fe-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/73/responsive/phone-charging-iphone-s26-lanxon-1_5771fe-720x405-2xl.webp 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>O recurso realmente vale a pena?</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Testes minuciosos em diversos aparelhos mostram, contudo, que a estratégia está longe de entregar os resultados prometidos. Ensaios com cronômetro, realizados com modelos premium recentes como Google Pixel 8 Pro, iPhone 16 Pro e Motorola Razr 60 Ultra, indicam que o efeito da alteração é praticamente irrelevante.</p>
-</div>
-<div class="content-visibility-auto">
-<p>No modelo da Motorola, o tempo para carga completa variou de 45 minutos para 44 minutos e 30 segundos. Uma diferença de meros trinta segundos que dificilmente compensa interromper comunicações e perder ligações ou notificações essenciais durante o dia a dia. A pouca vantagem da prática deve-se, em grande medida, à evolução dos sistemas de carregamento acelerado atuais.</p>
-</div>
-<div class="content-visibility-auto">
-<p><strong>Acelera mesmo o carregamento?</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Com carregadores e protocolos capazes de fornecer altas potências, a energia gasta pelos módulos de rede celular, Wi-Fi e Bluetooth corresponde a uma fração insignificante do fluxo total destinado à bateria. Além disso, ativar o modo avião apenas suspende a busca por redes e determinadas sincronizações, mantendo o sistema operacional completamente ativo e consumindo recursos.</p>
-<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/73/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405.jpg" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-xs.jpg 640w ,https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-sm.jpg 768w ,https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-md.jpg 1024w ,https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-lg.jpg 1366w ,https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-xl.jpg 1600w ,https://visaocoruja.github.io/media/posts/73/responsive/G3mg2kiMimnPqjRUqbpuCF-1200-80-720x405-2xl.jpg 1920w"></figure>
-<div class="content-visibility-auto">
-<p><strong>Quando o recurso traz algum benefício</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>A única situação em que essa alternativa apresenta ganhos um pouco mais perceptíveis acontece com o uso de carregadores antigos e de baixa potência em baterias de grande capacidade. Nesses casos específicos, a redução do consumo do aparelho pode economizar de cinco a dez minutos no processo completo de recarga. Outro fator determinante na velocidade desse processo é a gestão térmica do dispositivo.</p>
-</div>
-<div class="content-visibility-auto">
-<p><strong>Os testes apontam caminhos práticos</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>O uso do celular enquanto ele está conectado à tomada gera calor adicional, o que leva os fabricantes a reduzirem automaticamente a potência de carregamento para proteger os componentes internos. Por isso, variações de temperatura ou o simples ato de acender a tela exercem um impacto bastante maior sobre o tempo de carga do que o estado das redes sem fio.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Para quem precisa elevar a porcentagem da bateria no menor tempo possível, a alternativa mais eficaz é desligar o aparelho. Sem o sistema operacional e os aplicativos consumindo energia, a temperatura do dispositivo permanece mais baixa, e a redução real no tempo de carregamento situa-se entre 5% e 10%.</p>
-</div>
-<div class="content-visibility-auto">
-<p>A recomendação, portanto, é manter o aparelho em repouso e utilizar sempre um carregador e cabo compatíveis com a potência máxima suportada pelo fabricante.</p>
-<div class="content-visibility-auto">
-<p><strong>Manutenção e cuidados adicionais</strong></p>
-</div>
-<div class="content-visibility-auto">
-<p>Além das estratégias de carregamento, alguns estudos indicam que reiniciar o aparelho periodicamente ou deixá-lo desligado por alguns minutos pode contribuir positivamente para aumentar a autonomia da bateria a longo prazo. Essas práticas ajudam a regularizar processos em segundo plano e podem beneficiar a <strong>saúde da bateria</strong>.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Em suma, embora ativar o modo avião durante a recarga não ofereça vantagens significativas nos dispositivos modernos, combinar boas práticas de manutenção com carregadores adequados e evitar uso intenso durante o processo continua sendo a fórmula mais eficaz para preservar a bateria e otimizar o tempo de energia disponível.</p>
-<p> </p>
-<div class="content-visibility-auto">
-<p>O Visão Coruja continuará acompanhando de perto as novidades nesta área de tecnologia móvel e seus impactos práticos para o dia a dia dos usuários.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Acompanhe nossas análises regulares sobre tendências em carregamento de baterias, práticas de manutenção e atualizações relevantes no cenário de dispositivos móveis.</p>
-</div>
-</div>
 </div>
 </div>
 </div>
