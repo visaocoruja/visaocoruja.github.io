@@ -3,12 +3,166 @@
     <title>Visão Coruja</title>
     <link href="https://visaocoruja.github.io/feed.xml" rel="self" />
     <link href="https://visaocoruja.github.io" />
-    <updated>2026-08-10T00:50:00-03:00</updated>
+    <updated>2026-08-10T12:28:11-03:00</updated>
     <author>
         <name>Visão Coruja</name>
     </author>
     <id>https://visaocoruja.github.io</id>
 
+    <entry>
+        <title>Há 35 anos, a Web chegava ao mundo e transformava a internet para sempre</title>
+        <author>
+            <name>Visão Coruja</name>
+        </author>
+        <link href="https://visaocoruja.github.io/ha-35-anos-a-web-chegava-ao-mundo-e-transformava-a-internet-para-sempre.html"/>
+        <id>https://visaocoruja.github.io/ha-35-anos-a-web-chegava-ao-mundo-e-transformava-a-internet-para-sempre.html</id>
+
+        <updated>2026-08-10T12:22:43-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Há 35 anos, em agosto de 1991, um pesquisador do CERN fez algo que, à época, parecia pouco mais do que uma experiência voltada a facilitar a troca de informações entre cientistas. Ele publicou na internet uma mensagem sobre um novo sistema chamado World Wide&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Há 35 anos, em agosto de 1991, um pesquisador do CERN fez algo que, à época, parecia pouco mais do que uma experiência voltada a facilitar a troca de informações entre cientistas. Ele publicou na internet uma mensagem sobre um novo sistema chamado World Wide Web.</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/87/a_primeira_pagina00-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina00-720x405-2xl.webp 1920w"></figure>
+<div>
+<p>O que aconteceu em seguida mudaria para sempre a forma como o mundo usa a internet. A história, no entanto, começou alguns meses antes. E há um detalhe importante, muitas vezes esquecido, quando se conta essa trajetória.</p>
+</div>
+<div class="content-visibility-auto">
+<p><strong>A primeira página web nasceu em 1990</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Tim Berners-Lee, pesquisador britânico que trabalhava no CERN, apresentou em março de 1989 uma proposta para criar um sistema de informação distribuído que permitisse aos pesquisadores compartilhar documentos por meio de uma rede.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A ideia evoluiu e, junto com <a href="https://pt.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>, acabou sendo formalizada em uma proposta apresentada em novembro de 1990.</p>
+</div>
+<div class="content-visibility-auto">
+<p>No fim daquele mesmo ano, Berners-Lee já havia criado aquilo que se tornaria a base da web: HTML, HTTP e URLs, além do primeiro navegador e do primeiro servidor web.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O servidor funcionava em um computador <a href="https://pt.wikipedia.org/wiki/NeXT">NeXT</a>, instalado no escritório de Berners-Lee no CERN. A máquina trazia uma etiqueta escrita à mão que advertia:</p>
+</div>
+<div class="content-visibility-auto">
+<blockquote>
+<p>This machine is a server. DO NOT POWER IT DOWN!!</p>
+</blockquote>
+</div>
+<div class="content-visibility-auto">
+<p>Era, literalmente, o primeiro servidor web da história.</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/87/a_primeira_pagina01-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina01-720x405-2xl.webp 1920w"></figure>
+<div class="content-visibility-auto">
+<p><strong>E qual teria sido o primeiro site?</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>O endereço era info.cern.ch.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O CERN confirma que se tratou do primeiro site e servidor web já criados no mundo. A página inicial ficava disponível em: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">http://info.cern.ch/hypertext/WWW/TheProject.html</a></p>
+</div>
+<div class="content-visibility-auto">
+<p>Não exatamente o tipo de plataforma impressionante para os padrões de hoje. O conteúdo tinha uma finalidade prática: explicava o conceito da World Wide Web, detalhava seu funcionamento, ensinava a configurar um servidor e indicava como acessar outros documentos na rede.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Tratava-se, na prática, de um manual técnico sobre a própria tecnologia. E isso é bastante lógico: a primeira página web da história tinha como objetivo ensinar usuários a utilizar essa mesma ferramenta.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/87/a_primeira_pagina02-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina02-720x405-2xl.webp 1920w">
+<figcaption>O design da WWW permitia um acesso fácil à informação existente e uma das primeiras páginas da Web continha ligações para informação útil aos cientistas do CERN (por exemplo, a lista telefônica do CERN e guias para a utilização dos computadores centrais do CERN). O mecanismo de pesquisa baseava-se em palavras-chave; nos primeiros anos, ainda não existiam motores de busca.</figcaption>
+</figure>
+<div class="content-visibility-auto">
+<p><strong>Então por que tanta referência a 6 de agosto de 1991?</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>É nesse ponto que surge a confusão. A primeira página e o primeiro servidor já estavam em operação no CERN desde dezembro de 1990. Em março daquele ano, uma versão simplificada do navegador, batizada de <a href="https://line-mode.cern.ch/">Line Mode Browser</a>, já podia ser usada pelos usuários dos computadores da instituição.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Foi, porém, em 6 de agosto de 1991 que Tim Berners-Lee divulgou publicamente o projeto World Wide Web em um fórum de discussão da internet conhecido como <a href="https://timeline.web.cern.ch/sir-berners-lee-announces-www-software-internet">alt.hypertext</a>.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Naquela mensagem, ele apresentou o projeto e orientou como adquirir o software desenvolvido no CERN. A partir dali, a ideia começou a se difundir para além da comunidade de físicos que inicialmente dela se beneficiava.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Por isso, 6 de agosto de 1991 é amplamente considerada a data oficial do lançamento público da web.</p>
+</div>
+<div class="content-visibility-auto">
+<p><strong>A internet já existia</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Outro detalhe fundamental: Berners-Lee não inventou a internet. Na época em que criou a World Wide Web, a rede já estava consolidada e era empregada para comunicação entre diferentes redes e computadores.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O que Berners-Lee desenvolveu foi uma camada adicional que possibilitava organizar e consultar informações por meio de hiperlinks, páginas e documentos interconectados.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A simplicidade dessa proposta foi revolucionária. Em vez de precisar dominar sistemas complexos ou comandos específicos, bastava abrir um navegador, clicar em um link e seguir para outro documento.</p>
+<figure class="post__image"><img loading="lazy"  src="https://visaocoruja.github.io/media/posts/87/a_primeira_pagina03-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina03-720x405-2xl.webp 1920w"></figure>
+<div class="content-visibility-auto">
+<p><strong>O primeiro navegador também funcionava como editor</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>A ferramenta desenvolvida por Berners-Lee chamava-se <a href="https://pt.wikipedia.org/wiki/WorldWideWeb">WorldWideWeb</a>. Porém, carregava uma característica que pode soar estranha nos dias atuais: não se limitava à navegação. Cumpria dupla função — era, ao mesmo tempo, navegador e editor de conteúdo.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Berners-Lee podia abrir um documento e modificá-lo diretamente pela mesma aplicação. O conceito lembrava muito mais plataformas contemporâneas como WordPress ou ferramentas de edição colaborativa do que navegadores atuais, como Safari ou Firefox.</p>
+<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/87/a_primeira_pagina04-720x405.webp" alt="" width="720" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-xs.webp 640w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-sm.webp 768w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-md.webp 1024w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/87/responsive/a_primeira_pagina04-720x405-2xl.webp 1920w">
+<figcaption>Este é o primeiro website através do emulador do navegador produzido pelo CERN.</figcaption>
+</figure>
+<div class="content-visibility-auto">
+<p><strong>A web começou a se expandir rapidamente</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Em dezembro de 1991, foi instalado o primeiro servidor web fora da Europa, no <a href="https://www6.slac.stanford.edu/">Stanford Linear Accelerator Center</a> (SLAC), nos Estados Unidos. A partir dali, novos servidores e navegadores começaram a surgir.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Em 1993, outro momento decisivo aconteceu: o CERN colocou o software da World Wide Web em domínio público, permitindo que qualquer pessoa pudesse usá-lo sem pagamento de royalties. Essa decisão foi fundamental para a expansão da web.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Pouco depois apareceram navegadores mais acessíveis, como o Mosaic, e a web começou a deixar definitivamente o meio acadêmico para chegar ao público geral.</p>
+</div>
+<div class="content-visibility-auto">
+<p><strong>De uma página em um computador NeXT para bilhões de sites</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>É difícil imaginar a dimensão dessa transformação. A primeira página web era um simples conjunto de informações sobre um projeto científico, hospedado em um computador NeXT dentro do CERN.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Hoje, a web é usada diariamente para comunicação, comércio, finanças, entretenimento, trabalho, educação, pesquisa científica e praticamente todas as áreas da sociedade.</p>
+</div>
+<div class="content-visibility-auto">
+<p>E há uma curiosidade particularmente interessante: o computador NeXT que funcionou como o primeiro servidor web permanece preservado no CERN. A própria instituição lançou, em 2013, um projeto para restaurar e preservar o primeiro site da história.</p>
+<div class="content-visibility-auto">
+<div class="content-visibility-auto">
+<p><strong>Uma revolução que começou com uma etiqueta em um computador</strong></p>
+</div>
+<div class="content-visibility-auto">
+<p>Há exatos 35 anos, uma mensagem postada em um fórum de discussão por um pesquisador do CERN dava início a uma das transformações mais profundas da história humana. Tim Berners-Lee talvez não imaginasse que sua proposta de organizar informações por meio de hiperlinks se tornaria o alicerce da vida moderna como a conhecemos hoje.</p>
+</div>
+<div class="content-visibility-auto">
+<p>Daquela primeira página modesta, hospedada em um computador NeXT que carregava uma etiqueta escrita à mão proibindo desligá-lo, nasceu um ecossistema que hoje movimenta trilhões de dólares, conecta bilhões de pessoas e redefiniu a maneira como aprendemos, trabalhamos e nos relacionamos.</p>
+</div>
+<div class="content-visibility-auto">
+<p>O gesto do CERN ao liberar o software em domínio público, sem cobrar royalties, provou ser tão visionário quanto a própria criação da web. Foi essa decisão que garantiu que a tecnologia não ficasse refém de interesses comerciais e pudesse se espalhar livremente pelo planeta.</p>
+</div>
+<div class="content-visibility-auto">
+<p>A história da World Wide Web é, antes de tudo, um lembrete de que as grandes revoluções nem sempre começam com estrondos. Às vezes, começam com um pesquisador, uma ideia simples e a convicção de que compartilhar conhecimento pode mudar o mundo.</p>
+<div>
+<p> </p>
+<p>O Visão Coruja continuará a acompanhar de perto as transformações na evolução da web e seus impactos estratégicos para organizações, governos e cidadãos.</p>
+</div>
+<div>
+<p>Acompanhe nossas análises regulares sobre o desenvolvimento histórico das tecnologias digitais, suas implicações atuais e as tendências que moldarão o futuro da comunicação global na rede.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dentistas de jade: como os antigos maias tratavam dor de dente com restaurações sofisticadas</title>
         <author>
@@ -900,108 +1054,6 @@
 </div>
 </div>
 </div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>As mentiras de Anthony Fauci: o silêncio que fala mais alto que qualquer confissão</title>
-        <author>
-            <name>Visão Coruja</name>
-        </author>
-        <link href="https://visaocoruja.github.io/as-mentiras-de-anthony-fauci-o-silencio-que-fala-mais-alto-que-qualquer-confissao.html"/>
-        <id>https://visaocoruja.github.io/as-mentiras-de-anthony-fauci-o-silencio-que-fala-mais-alto-que-qualquer-confissao.html</id>
-
-        <updated>2026-08-03T10:23:58-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    O cientista criminoso Anthony Fauci foi diretor do Instituto Nacional de Alergia e Doenças Infecciosas e o principal conselheiro médico do presidente Biden durante a pandemia. Anthony Fauci durante depoimento no Senado dos Estados Unidos. Em 29 de julho de 2026, diante do Comitê de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/77/883c69263048559fd2309b2c22ebf2274111515aw.jpg.webp" alt="" width="1920" height="1280" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-xs.webp 640w ,https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-sm.webp 768w ,https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-md.webp 1024w ,https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/77/responsive/883c69263048559fd2309b2c22ebf2274111515aw.jpg-2xl.webp 1920w">
-<figcaption><strong>O cientista criminoso Anthony Fauci foi diretor do Instituto Nacional de Alergia e Doenças Infecciosas e o principal conselheiro médico do presidente Biden durante a pandemia.</strong></figcaption>
-</figure>
-<figure class="post__image"><img loading="lazy" src="https://visaocoruja.github.io/media/posts/77/anthony-fauci-depoimento-senado.jpg.webp" alt="" width="3200" height="1802" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-xs.webp 640w ,https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-sm.webp 768w ,https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-md.webp 1024w ,https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-lg.webp 1366w ,https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-xl.webp 1600w ,https://visaocoruja.github.io/media/posts/77/responsive/anthony-fauci-depoimento-senado.jpg-2xl.webp 1920w">
-<figcaption><strong>Anthony Fauci durante depoimento no Senado dos Estados Unidos.</strong></figcaption>
-</figure>
-<div class="content-visibility-auto">
-<div class="content-visibility-auto">
-<p>Em 29 de julho de 2026, diante do Comitê de Segurança Interna e Assuntos Governamentais do Senado dos Estados Unidos, o Dr. Anthony Fauci — outrora o rosto incontestável da saúde pública americana — fez algo que ressoou mais do que qualquer palavra que pudesse ter dito: <strong>ficou em silêncio</strong>. Mais de 100 vezes, invocou a Quinta Emenda da Constituição, recusando-se a responder perguntas sobre suas ações durante a pandemia de COVID-19. Para milhões de americanos que confiaram nele suas vidas e suas esperanças, aquele silêncio foi ensurdecedor.</p>
-</div>
-<div class="content-visibility-auto">
-<h2>O diário que não mentiria</h2>
-</div>
-<div class="content-visibility-auto">
-<p>O epicentro do escrutínio veio das mãos do senador Rand Paul (R-KY), que liberou mais de <strong>1.141 páginas</strong> de anotações pessoais de Fauci durante a era pandêmica. Segundo relatos da imprensa internacional e nacional, Paul afirmou que os registros revelam uma discrepância perturbadora: <strong>o que Fauci escrevia privadamente e o que dizia ao público eram histórias diferentes</strong>.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Paul alegou que, enquanto o então diretor do NIAID descartava publicamente a hipótese de vazamento laboratorial em Wuhan como "implausível", suas anotações privadas sugeriam que ele mesmo considerava essa teoria seriamente. Se confirmado, isso representaria uma manipulação deliberada da narrativa pública numa crise sanitária que custou mais de um milhão de vidas americanas.</p>
-</div>
-<div class="content-visibility-auto">
-<p><em>"O que ele escreveu privadamente e o que disse ao país são duas histórias diferentes"</em>, declarou Paul em sua conta no X, antigo Twitter, segundo veículos de comunicação internacional.</p>
-</div>
-<div class="content-visibility-auto">
-<h2>A relação tensa com Donald Trump</h2>
-</div>
-<div class="content-visibility-auto">
-<p>O diário revela também uma relação complexa e degradante entre Fauci e o então presidente Donald Trump. No primeiro contato, realizado na Sala de Situação em <strong>29 de janeiro de 2020</strong>, Fauci relatou que Trump o tratara com respeito: <em>"O Presidente entrou e a primeira coisa que disse ao me olhar foi: 'Anthony, você é realmente uma pessoa famosa. Meu bom amigo Lou Dobbs… me disse que você é uma das pessoas mais inteligentes, experientes e excepcionais que ele conhece'"</em>, escreveu Fauci.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Entretanto, a situação deteriorou-se rapidamente. Em fevereiro de 2020, Fauci teria incentivado Trump a não minimizar a gravidade da situação, mas o presidente insistiu em fazer o contrário no dia seguinte. Com o passar dos meses, Fauci passou a descrever as conversas com Trump como <strong>"desconexas"</strong> e, em 8 de agosto de 2020, anotou que o presidente estava <em>"agindo de forma ainda mais errática"</em>, ignorando indicadores graves como hospitalizações e mortes (mais de 1.000 por dia).</p>
-</div>
-<div class="content-visibility-auto">
-<p>O clímax das críticas veio em <strong>10 de novembro de 2020</strong>, logo após as eleições presidenciais. Fauci escreveu no diário sobre as alegações de fraude eleitoral de Trump: <em>"O presidente ainda insiste que o Partido Republicano venceu a eleição. Universo completamente paralelo. Kayleigh e os senadores republicanos (Graham, McConnell, Ted Cruz) estão se prostituindo ao apoiar as alegações infundadas do presidente. Caminhamos para uma crise constitucional"</em>. Em outro escrito, chegou a descrever o presidente como <strong>"um adolescente detestável"</strong>, conforme veicularam órgãos de imprensa internacionais.</p>
-</div>
-<div class="content-visibility-auto">
-<h2>Obsessão pela visibilidade midiática</h2>
-</div>
-<div class="content-visibility-auto">
-<p>Um aspecto menos discutido do diário é a aparente preocupação de Fauci com sua própria imagem pública. Segundo registros publicados pela grande mídia, o cientista fez anotações detalhadas sobre suas inúmeras entrevistas e aparições televisivas durante a pandemia. Chegou até mesmo a usar o termo <strong>"Fauci 5"</strong>, referência pessoal a quando apareceu em todos os cinco principais telejornais matinais de domingo — um feito que anotou com certo orgulho em suas notas.</p>
-</div>
-<div class="content-visibility-auto">
-<p>Essa atenção meticulosa à cobertura midiática contrasta com o que muitos críticos veem como falta de transparência em relação às políticas que ajudou a formular e executar.</p>
-</div>
-<div class="content-visibility-auto">
-<h2>A recusa sistemática</h2>
-</div>
-<div class="content-visibility-auto">
-<p>Durante a audiência, republicanos pressionaram Fauci sobre uma série de pontos:</p>
-</div>
-<div class="content-visibility-auto">
-<ul>
-<li><strong>As origens do vírus</strong> e se ele deliberadamente minimizou a teoria do vazamento laboratorial</li>
-<li><strong>Prêmios financeiros</strong>: o senador Josh Hawley (R-MO) acusou Fauci de ter orientado funcionários públicos a buscar prêmios em dinheiro em seu nome, totalizando mais de <strong>US$ 1 milhão</strong>, conforme reportou a mídia especializada</li>
-<li><strong>Comunicações privadas</strong> com o governo da Califórnia durante a pandemia</li>
-<li><strong>Tratamentos alternativos</strong>: críticos apontam que Fauci pode ter suprimido informações sobre a eficácia de medicamentos como a ivermectina, priorizando ao contrário o desenvolvimento de terapias gênicas (vacinas), segundo colunistas de veículos nacionais e internacionais</li>
-<li><strong>Vacinas e tratamentos</strong>: o senador Ron Johnson (R-WI) acusou Fauci de encobrir informações desfavoráveis sobre as vacinas, que classificou como "terapia gênica experimental"</li>
-</ul>
-<p>A cada pergunta, Fauci invocou o direito contra autoincriminação. Veículos de comunicação estadunidenses reportaram que Paul ameaçou levar o comitê a votar por <strong>desacato ao Congresso</strong>.</p>
-<h2>Um escudo de papel?</h2>
-<p>O perdão presidencial concedido por Joe Biden em 19 de janeiro de 2025 — um <strong>"Executive Grant of Clemency"</strong> de perdão integral e incondicional — cobre qualquer infração federal cometida entre 1º de janeiro de 2014 e a data do perdão, abrangendo toda a sua atuação durante a pandemia. Como observou a imprensa internacional, o perdão só protege contra processos federais por eventos anteriores a janeiro de 2025 — o que significa que mentir sob juramento <em>agora</em> não estaria coberto.</p>
-<p>É precisamente esse o argumento que Paul usou para questionar a legitimidade de Fauci invocar a Quinta Emenda: se já foi perdoado, por que temer incriminar-se? A mídia especializada nota que essa é uma questão jurídica ainda não resolvida pelos tribunais.</p>
-<p>Mas o perdão levanta uma pergunta mais profunda e desconfortável: <strong>por que Biden considerou necessário perdoar preventivamente um servidor público se nada de errado havia sido feito?</strong> Como observou a imprensa internacional, Biden descreveu a medida como proteção contra "processos politicamente motivados". Outros interpretam de forma diversa.</p>
-<h2>A face que não convence</h2>
-<p>Fauci passou quase 40 anos como o principal especialista em doenças infecciosas do governo americano, aconselhando presidentes de ambos os partidos. Foi condecorado, reverenciado, transformado em ícone da ciência. Mas o monumento racha quando o silêncio substitui a transparência.</p>
-<p>Conforme reportou parte da grande mídia ocidental, a audiência foi descrita por alguns como "teatro partidário", e há mérito nessa leitura. Sem dúvida, a polarização política contaminou o debate. Mas o fato inegável é este: <strong>um homem que pediu confiança pública absoluta durante a maior crise sanitária do século recusou-se, sob juramento, a prestar contas de suas ações</strong>.</p>
-<p>Veículos de imprensa norte-americanos caracterizaram a sessão como "amarga". Agências internacionais registraram a imagem de um Fauci de terno azul diante de um microfone, recusando-se a responder — mais de cem vezes.</p>
-<h2>O custo humano da opacidade</h2>
-<p>As evidências acumuladas — diário privado contraditório, silêncio sob juramento, perdão preventivo — não apontam apenas para erros administrativos ou falhas de comunicação. Elas traçam o contorno de um padrão muito mais sombrio: <strong>um alinhamento sistemático com interesses que jamais foram os da saúde pública americana</strong>.</p>
-<p>Que tipo de servidor público precisa ser perdoado antes de ter cometido qualquer crime? Que homem de ciência recusa-se cem vezes a responder perguntas básicas sobre decisões que afetaram milhões de vidas? Por que as páginas privadas de seus diários divergem radicalmente do discurso público que orientou políticas sanitárias globais?</p>
-<p>Não há resposta honesta que justifique tal discrepância sem invocar motivos menos nobres: poder, prestígio, financiamento, influência política. O termo <strong>"Fauci 5"</strong> — sua marca pessoal de visibilidade midiática — revela uma vaidade que parece exceder a missão científica. As anotações hostis sobre Trump, mesmo quando este lhe oferecia elogios públicos, demonstram uma lealdade ideológica que transcendeu a função técnica. A recusa em considerar tratamentos alternativos enquanto promovia terapias gênicas em massa levanta questões éticas que nenhum perdão administrativo apaga.</p>
-<p><strong>Mais de um milhão de americanos morreram</strong> durante a pandemia que Fauci ajudou a gerir. Não são números abstratos — são filhos, pais, mães, avós. E agora, quando perguntas são feitas sobre decisões tomadas naquele período, a resposta é o silêncio. Cem vezes a Quinta Emenda. Cem vezes negando transparência à população que pagou seu salário e depositou nele sua confiança absoluta.</p>
-<p>E acima de tudo permanece o fato mais incômodo de todos: <strong>o perdão de Biden</strong>. Se nada de errado foi feito, por que protegê-lo preventivamente? Se tudo era transparente, por que temer interrogatórios futuros? Se a ciência era impecável, por que invocar o direito contra autoincriminação perante o Congresso americano?</p>
-<p>A <strong>fraudemia</strong> — assim como muitos críticos passaram a chamar o fenômeno — não foi apenas uma crise sanitária. Foi uma operação coordenada de desinformação, orquestrada pelos donos do mundo e sua <strong>Nova Ordem Mundial</strong>, onde a verdade médica foi sacrificada em prol de interesses políticos e econômicos. Os dados mostram inconsistências gritantes: taxas de positividade que saltavam, testes PCR com ciclos absurdos, diagnósticos inflacionados para aumentar contagens de óbitos. Fauci esteve no centro dessa engrenagem, silenciando vozes discordantes e perseguindo profissionais que ousavam questionar a narrativa oficial.</p>
-<p>Esta fraudemia não foi um acidente, nem um erro de cálculo. Foi um teste de campo executado com precisão cirúrgica. A <strong>Nova Ordem Mundial</strong> trabalha há décadas em planos de controle total da humanidade, utilizando crises sanitárias como pretexto para impor medidas que erodem liberdades individuais, destroem economias nacionais e submetem populações inteiras à vigilância biopolítica global. A pandemia serviu como laboratório para experimentos de dominação que visam transformar seres humanos livres em súditos dóceis — escravos biológicos de um sistema planetário controlado por uma elite global que se vê dona do destino coletivo.</p>
-<p>O planeta Terra foi transformado em <strong>prisão global</strong> — passaportes vacinais, certificados digitais, restrições de movimento, censuras institucionais. Tudo isso não foi improvisado. Foi orquestrado por arquitetos do poder que há muito tempo planejam a submissão definitiva da humanidade. Fauci foi apenas uma peça nesse tabuleiro maior, um executor que aceitou servir aos mestres da dominação mundial em troca de poder, fama e proteção jurídica.</p>
-<p>Anthony Fauci não é um herói caído. É um <strong>criminoso genocida</strong> que, sob o manto da ciência e com a cumplicidade do poder político, conduziu uma nação ao abismo enquanto desfrutava de sua fama televisiva. <strong>Um canalha</strong> convertido em burocrata, há décadas a serviço da <strong>Big Pharma e seus tentáculos maléficos</strong>. <strong>Um monstro</strong> que trocou a proteção da saúde pública pelo lucro farmacêutico, sacrificando vidas no altar de contratos obscuros e alianças obscenas com a indústria que deveria regular. Cada silêncio diante do Senado carrega o peso de vidas que poderiam ter sido salvas com informação honesta, com transparência mínima, com o mínimo de decência que se espera de alguém encarregado de proteger a saúde pública. A história não absolverá quem escolheu a omertà em vez da verdade. E nenhum perdão presidencial conseguirá apagar o cheiro de morte que impregna cada página daquele diário.</p>
-<h2>O que fica</h2>
-<p>A história julgará Anthony Fauci. Mas a história não espera silêncios — ela demanda respostas. E quando o homem que governou a resposta à pandemia de uma nação escolhe calar-se mais de cem vezes diante do Congresso, o próprio silêncio se transforma em acusação.</p>
-<p>Como observou publicação acadêmica após a audiência, o caso ilustra como teorias antes marginalizadas tornaram-se armas políticas — mas também como a falta de transparência de figuras públicas alimenta justamente a desconfiança que elas mesmas denunciam.</p>
-<p>As páginas do diário de Fauci estão publicadas. As perguntas do Senado estão registradas. As respostas, essas, nunca vieram.</p>
-<p>E talvez seja exatamente isso que fale mais alto.</p>
 </div>
 </div>
             ]]>
